@@ -5,6 +5,20 @@ import cloudinary.uploader
 from .mail_config import configure_mail
 from flask_mail import Message
 from flask import current_app
+from .models import Alert, AlertSchema
+from app.db import mongo_client # Import PyMongo
+from bson.objectid import ObjectId  # Import ObjectId to work with MongoDB _id fields
+
+
+
+#FUNCTION TO FIND USER BY EMAIL AND USER NAME
+def find_user_by_email_and_name(email, user_name):
+    user = mongo_client.db.users.find_one({'email': email, 'username': user_name})
+    if user:
+        return user
+    else:
+        return None
+
 
 
 #Initialize Cloudinary Configuration.
@@ -43,20 +57,59 @@ def send_alert(data, image_file):
 
     # Print the alert message to the console instead of sending an email
     print(alert_message)
+    # Find the user by email and username
+    user = find_user_by_email_and_name(user_email, user_name)
+    if user:
+        user_id = user['_id']  # Correctly access the _id from the user document
+        alert_data = {
+            "animal_name": animal_name,
+            "location": location,
+            "username": user_name,
+            "user_email": user_email,
+            "priority": priority,
+            "address": manual_address,
+            "user_id": str(user_id),  # Ensure _id is stored as a string if needed
+            "photo_url": photo_url
 
-    # Send an email with the alert message
-    # Send the alert message via email with error handling
-    
-    try:
-        with current_app.app_context():
-            mail = configure_mail(current_app)
-            msg = Message(subject=subject,
+        }
+
+        # Try to insert the alert into MongoDB
+        try:
+            mongo_client.db.alerts.insert_one(alert_data)
+            print("Alert data inserted into MongoDB successfully.")
+        except Exception as e:
+            print(f"Error inserting alert data into MongoDB: {e}")
+        # Push the alert into the user's alerts array
+        try:
+            mongo_client.db.users.update_one(
+                {"_id": ObjectId(user_id)},
+                {"$push": {"alerts": alert_data}}
+            )
+            print("Alert added to the user's alerts array.")
+        except Exception as e:
+            print(f"Error updating user's alerts array: {e}")
+        
+        try:
+            with current_app.app_context():
+                mail = configure_mail(current_app)
+                msg = Message(subject=subject,
                           recipients=["aryandev512@gmail.com"],  # Add authority's email here
                           body=alert_message)
-            mail.send(msg)
-            print("Alert email sent successfully.")
-    except Exception as e:
-        print(f"Error sending email: {e}")
-        # Handle the error (e.g., log it, retry, etc.)
+                mail.send(msg)
+                print("Alert email sent successfully.")
+        except Exception as e:
+                print(f"Error sending email: {e}")
+                # Handle the error (e.g., log it, retry, etc.)
 
+    else:
+        return False
+        
+    
+
+  
+
+
+    
+
+    
 

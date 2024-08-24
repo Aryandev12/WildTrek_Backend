@@ -106,7 +106,18 @@ def login():
 def send_alert_route():
     data = request.form.to_dict()
     image_file = request.files['image']
-    send_alert(data,image_file)
+    user_email = data.get('user_email')
+    user_name = data.get('user_name')
+    user = mongo_client.db.users.find_one({'email': user_email})
+
+
+    if not user:
+        return jsonify({"message": "User not found"}), 404
+    
+    
+
+
+    s=send_alert(data,image_file)
     return jsonify({"message": "Alert sent successfully"}), 200
 
 
