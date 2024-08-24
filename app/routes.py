@@ -7,6 +7,7 @@ import os
 from werkzeug.security import check_password_hash, generate_password_hash
 from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity
 from marshmallow import ValidationError
+from .alerts import send_alert
 routes = Blueprint("routes", __name__)
 
 #Test Route
@@ -99,6 +100,14 @@ def login():
 
     except Exception as e:
         return jsonify({"message": str(e)}), 400
+
+#routes regarding alerts
+@routes.route("/api/sendalert", methods=["POST"])
+def send_alert_route():
+    data = request.form.to_dict()
+    image_file = request.files['image']
+    send_alert(data,image_file)
+    return jsonify({"message": "Alert sent successfully"}), 200
 
 
 

@@ -6,6 +6,7 @@ from flask_cors import CORS
 from .db import init_db 
 from flask_bcrypt import Bcrypt
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity
+from .mail_config import configure_mail
 load_dotenv()
 bcrypt = Bcrypt()
 jwt = JWTManager()
@@ -13,6 +14,7 @@ def create_app():
     app = Flask(__name__)
 
     CORS(app)
+    mail=configure_mail(app)
     app.config["SECRET_KEY"] = "db24c608640f5034b30b8e1e1eb5618ed0ffdbf5"
     app.config["MONGO_URI"] = os.getenv("MONGO_URI")
     # MongoDB database
