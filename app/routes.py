@@ -120,6 +120,22 @@ def send_alert_route():
     s=send_alert(data,image_file)
     return jsonify({"message": "Alert sent successfully"}), 200
 
+#Get all the alerts for a specific user
+@routes.route("/api/alerts", methods=["GET"])
+@jwt_required()
+def get_alerts():
+    user_email = get_jwt_identity()
+    user = mongo_client.db.users.find_one({'email': user_email})
+    if not user:
+        return jsonify({"message": "User not found"}), 404
+    alerts = user.get('alerts', [])  
+    for alert in alerts:
+        if '_id' in alert:
+            alert['_id'] = str(alert['_id'])  # Convert ObjectId to string
+        if 'user_id' in alert:
+            alert['user_id'] = str(alert['user_id'])
+    return jsonify({"alerts": alerts}), 200
+
 
 
 
