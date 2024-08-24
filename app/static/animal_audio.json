@@ -1,0 +1,93 @@
+{
+  "cat": {
+    "commonName": "Cat",
+    "description": "A small, domesticated carnivorous mammal with retractable claws, known for its agility and playful behavior.",
+    "habitat": "Domesticated, found in homes worldwide; wild cats inhabit forests, savannas, and deserts.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cow": {
+    "commonName": "Cow",
+    "description": "A large domesticated ungulate raised for milk, meat, and as a draft animal.",
+    "habitat": "Domesticated, found on farms and pastures worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dog": {
+    "commonName": "Dog",
+    "description": "A domesticated carnivorous mammal known for its loyalty and companionship.",
+    "habitat": "Domesticated, found in homes worldwide; wild dogs inhabit forests, deserts, and tundras.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "donkey": {
+    "commonName": "Donkey",
+    "description": "A domesticated member of the horse family, known for its endurance and used as a working animal.",
+    "habitat": "Domesticated, found in rural areas and farms worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "frog": {
+    "commonName": "Frog",
+    "description": "An amphibian known for its jumping abilities, croaking sounds, and smooth, moist skin.",
+    "habitat": "Wetlands, forests, ponds, and rivers worldwide.",
+    "isEndangered": "Some species are endangered due to habitat loss and pollution.",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": "Some species are poisonous, secreting toxins through their skin."
+  },
+  "lion": {
+    "commonName": "Lion",
+    "description": "A large carnivorous feline known as the 'king of the jungle,' living in prides.",
+    "habitat": "Savannas, grasslands, and open woodlands in Africa and India.",
+    "isEndangered": "Vulnerable due to habitat loss and poaching.",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "monkey": {
+    "commonName": "Monkey",
+    "description": "A primate with a tail, known for its agility and intelligence.",
+    "habitat": "Forests, savannas, and mountainous regions worldwide.",
+    "isEndangered": "Some species are endangered due to habitat destruction and hunting.",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pig": {
+    "commonName": "Pig",
+    "description": "A domesticated omnivorous mammal known for its intelligence and adaptability.",
+    "habitat": "Domesticated, found on farms worldwide; wild boars inhabit forests and grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rooster": {
+    "commonName": "Rooster",
+    "description": "A male chicken known for its crowing and colorful plumage.",
+    "habitat": "Domesticated, found on farms and rural areas worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sheep": {
+    "commonName": "Sheep",
+    "description": "A domesticated ruminant animal known for its wool and meat.",
+    "habitat": "Domesticated, found on farms and pastures worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  }
+}
+

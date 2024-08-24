@@ -1,0 +1,1361 @@
+{
+  "acinonyx-jubatus": {
+    "commonName": "Cheetah",
+    "description": "Cheetahs are the fastest land animals, reaching speeds up to 120 km/h in short bursts.",
+    "habitat": "Open plains and grasslands across Africa",
+    "isEndangered": true,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "aethia-cristatella": {
+    "commonName": "Crested Auklet",
+    "description": "A small seabird known for its distinct crest and strong odor.",
+    "habitat": "Coastal cliffs and islands in the North Pacific",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "agalychnis-callidryas": {
+    "commonName": "Red-Eyed Tree Frog",
+    "description": "A brightly colored frog famous for its vivid red eyes.",
+    "habitat": "Rainforests of Central America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "agkistrodon-contortrix": {
+    "commonName": "Copperhead",
+    "description": "A venomous snake with distinctive copper-colored bands.",
+    "habitat": "Forests and rocky areas in the Eastern United States",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "ailuropoda-melanoleuca": {
+    "commonName": "Giant Panda",
+    "description": "A bear known for its black and white coat and love of bamboo.",
+    "habitat": "Mountainous regions of Central China",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ailurus-fulgens": {
+    "commonName": "Red Panda",
+    "description": "A small mammal with reddish-brown fur and a bushy tail.",
+    "habitat": "Himalayan forests",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "alces-alces": {
+    "commonName": "Moose",
+    "description": "The largest member of the deer family, with long legs and a massive body.",
+    "habitat": "Boreal and mixed deciduous forests in the Northern Hemisphere",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "anas-platyrhynchos": {
+    "commonName": "Mallard",
+    "description": "A common duck species known for its green-headed males.",
+    "habitat": "Wetlands, ponds, and rivers worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ankylosaurus-magniventris": {
+    "commonName": "Ankylosaurus",
+    "description": "A heavily armored dinosaur from the Late Cretaceous Period, known for its large size and clubbed tail.",
+    "habitat": "Late Cretaceous period, North America",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "apis-mellifera": {
+    "commonName": "Western Honey Bee",
+    "description": "A species of honey bee widely managed for honey production and pollination.",
+    "habitat": "Worldwide, in temperate and tropical regions",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "aptenodytes-forsteri": {
+    "commonName": "Emperor Penguin",
+    "description": "The tallest and heaviest of all living penguin species, known for its endurance in Antarctic winters.",
+    "habitat": "Antarctic coasts",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "aquila-chrysaetos": {
+    "commonName": "Golden Eagle",
+    "description": "A large bird of prey with excellent hunting abilities, found across the Northern Hemisphere.",
+    "habitat": "Mountains, cliffs, and open terrain",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ara-macao": {
+    "commonName": "Scarlet Macaw",
+    "description": "A large, colorful parrot native to Central and South America.",
+    "habitat": "Rainforests and woodlands of Central and South America",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "architeuthis-dux": {
+    "commonName": "Giant Squid",
+    "description": "One of the largest cephalopods, known for its elusive nature and deep-sea habitat.",
+    "habitat": "Deep oceans worldwide",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ardea-herodias": {
+    "commonName": "Great Blue Heron",
+    "description": "A large wading bird commonly found near shores and wetlands in North America.",
+    "habitat": "Wetlands, rivers, and coasts",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "balaenoptera-musculus": {
+    "commonName": "Blue Whale",
+    "description": "The largest animal known to have ever existed, feeding primarily on krill.",
+    "habitat": "Oceans worldwide",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "betta-splendens": {
+    "commonName": "Siamese Fighting Fish",
+    "description": "A popular aquarium fish known for its vibrant colors and aggressive behavior.",
+    "habitat": "Shallow freshwater environments in Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bison-bison": {
+    "commonName": "American Bison",
+    "description": "The largest land mammal in North America, historically significant to the Great Plains.",
+    "habitat": "Grasslands and plains of North America",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bos-gaurus": {
+    "commonName": "Gaur",
+    "description": "The largest species of wild cattle, native to South and Southeast Asia.",
+    "habitat": "Forests and grasslands in South and Southeast Asia",
+    "isEndangered": true,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bos-taurus": {
+    "commonName": "Domestic Cattle",
+    "description": "Domesticated bovines used for meat, milk, and labor worldwide.",
+    "habitat": "Farms and pastures globally",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bradypus-variegatus": {
+    "commonName": "Brown-throated Sloth",
+    "description": "A slow-moving mammal native to Central and South America, known for its tree-dwelling lifestyle.",
+    "habitat": "Tropical rainforests in Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "branta-canadensis": {
+    "commonName": "Canada Goose",
+    "description": "A large wild goose known for its migratory behavior and V-shaped flight formations.",
+    "habitat": "Lakes, rivers, and grassy fields in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "canis-lupus": {
+    "commonName": "Gray Wolf",
+    "description": "The largest wild member of the dog family, known for its pack behavior and widespread distribution.",
+    "habitat": "Forests, tundras, and grasslands in North America, Europe, and Asia",
+    "isEndangered": true,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "canis-lupus-familiaris": {
+    "commonName": "Domestic Dog",
+    "description": "Domesticated descendant of the gray wolf, widely kept as a pet and working animal.",
+    "habitat": "Worldwide, in homes and various environments",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "carcharodon-carcharias": {
+    "commonName": "Great White Shark",
+    "description": "A large predatory shark known for its powerful build and role as an apex predator.",
+    "habitat": "Coastal waters and open oceans worldwide",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cardinalis-cardinalis": {
+    "commonName": "Northern Cardinal",
+    "description": "A brightly colored songbird found in North and Central America, known for its distinctive crest and red plumage.",
+    "habitat": "Woodlands, gardens, and shrublands in North and Central America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cathartes-aura": {
+    "commonName": "Turkey Vulture",
+    "description": "A large bird of prey known for its scavenging behavior and distinctive soaring flight.",
+    "habitat": "Open and semi-open areas across the Americas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "centrochelys-sulcata": {
+    "commonName": "African Spurred Tortoise",
+    "description": "One of the largest species of tortoises, native to the southern edge of the Sahara Desert.",
+    "habitat": "Deserts and savannas in northern Africa",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "centruroides-vittatus": {
+    "commonName": "Striped Bark Scorpion",
+    "description": "A small, yellowish-brown scorpion commonly found in the southern United States, known for its painful sting.",
+    "habitat": "Woodlands, grasslands, and human habitations in the southern United States",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "ceratitis-capitata": {
+    "commonName": "Mediterranean Fruit Fly",
+    "description": "A highly invasive pest that affects over 260 types of fruits and vegetables.",
+    "habitat": "Tropical and subtropical regions worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ceratotherium-simum": {
+    "commonName": "White Rhinoceros",
+    "description": "The largest species of rhinoceros, native to Africa, with a broad mouth for grazing.",
+    "habitat": "Grasslands and savannas in Africa",
+    "isEndangered": "nearThreatened",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chelonia-mydas": {
+    "commonName": "Green Sea Turtle",
+    "description": "A large sea turtle known for its herbivorous diet and long migrations.",
+    "habitat": "Tropical and subtropical oceans worldwide",
+    "isEndangered": "endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chrysemys-picta": {
+    "commonName": "Painted Turtle",
+    "description": "A small freshwater turtle recognized for its colorful markings on the shell and body.",
+    "habitat": "Freshwater bodies across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "circus-hudsonius": {
+    "commonName": "Northern Harrier",
+    "description": "A medium-sized raptor known for its low, gliding flight and distinctive white rump patch.",
+    "habitat": "Marshes, grasslands, and open fields in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "codium-fragile": {
+    "commonName": "Green Sea Fingers",
+    "description": "An invasive green alga that spreads rapidly and can dominate marine ecosystems.",
+    "habitat": "Coastal waters worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "coelacanthiformes": {
+    "commonName": "Coelacanth",
+    "description": "An ancient order of fish once thought extinct, known for its lobed pectoral fins.",
+    "habitat": "Deep-sea environments off the coasts of Africa and Indonesia",
+    "isEndangered": "criticallyEndangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "colaptes-auratus": {
+    "commonName": "Northern Flicker",
+    "description": "A woodpecker species known for its distinctive call and spotted plumage.",
+    "habitat": "Woodlands, forests, and urban areas across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "connochaetes-gnou": {
+    "commonName": "Black Wildebeest",
+    "description": "A large antelope with distinctive white tail and curved horns, native to South Africa.",
+    "habitat": "Grasslands and open plains in South Africa",
+    "isEndangered": "nearThreatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "correlophus-ciliatus": {
+    "commonName": "Crested Gecko",
+    "description": "A small, nocturnal lizard known for its adhesive toe pads and fringed crests.",
+    "habitat": "Forests of New Caledonia",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crocodylus-niloticus": {
+    "commonName": "Nile Crocodile",
+    "description": "A large and aggressive predator known for inhabiting rivers across Africa.",
+    "habitat": "Rivers, lakes, and marshlands in Africa",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crotalus-atrox": {
+    "commonName": "Western Diamondback Rattlesnake",
+    "description": "A venomous pit viper found in the southwestern United States, recognized by its diamond pattern.",
+    "habitat": "Deserts, grasslands, and rocky areas in the southwestern United States",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "crotophaga-sulcirostris": {
+    "commonName": "Groove-billed Ani",
+    "description": "A bird with a long tail and a distinctive grooved beak, often found in open areas.",
+    "habitat": "Open fields and lowlands from southern Texas to South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cryptoprocta-ferox": {
+    "commonName": "Fossa",
+    "description": "A carnivorous mammal native to Madagascar, known for its agility and role as a top predator.",
+    "habitat": "Forests of Madagascar",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cyanocitta-cristata": {
+    "commonName": "Blue Jay",
+    "description": "A strikingly colored bird known for its loud calls and intelligence.",
+    "habitat": "Forests, woodlands, and urban areas across eastern North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "danaus-plexippus": {
+    "commonName": "Monarch Butterfly",
+    "description": "A well-known butterfly species famous for its long migrations and bright orange wings.",
+    "habitat": "Fields, meadows, and gardens across North America",
+    "isEndangered": "endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": true
+  },
+  "dasypus-novemcinctus": {
+    "commonName": "Nine-banded Armadillo",
+    "description": "A small armored mammal known for its digging ability and wide range across the Americas.",
+    "habitat": "Grasslands, forests, and scrublands across North, Central, and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "delphinapterus-leucas": {
+    "commonName": "Beluga Whale",
+    "description": "A small, white whale known for its vocalizations and rounded forehead.",
+    "habitat": "Arctic and sub-Arctic waters",
+    "isEndangered": "nearThreatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dendrobatidae": {
+    "commonName": "Poison Dart Frog",
+    "description": "A group of brightly colored frogs known for their toxic skin, used by indigenous people for poison darts.",
+    "habitat": "Tropical rainforests in Central and South America",
+    "isEndangered": "varies by species",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": true
+  },
+  "dermochelys-coriacea": {
+    "commonName": "Leatherback Sea Turtle",
+    "description": "The largest sea turtle species, known for its leathery shell and extensive migrations.",
+    "habitat": "Tropical and subtropical oceans worldwide",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "desmodus-rotundus": {
+    "commonName": "Common Vampire Bat",
+    "description": "A small bat species that feeds on the blood of mammals, found in the Americas.",
+    "habitat": "Tropical and subtropical regions of Central and South America",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "diplodocus": {
+    "commonName": "Diplodocus",
+    "description": "A large, long-necked herbivorous dinosaur from the Late Jurassic period.",
+    "habitat": "Floodplain environments in what is now North America",
+    "isEndangered": "extinct",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dugong-dugon": {
+    "commonName": "Dugong",
+    "description": "A large marine mammal, closely related to manatees, known for grazing on seagrasses.",
+    "habitat": "Coastal waters of the Indian and western Pacific Oceans",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eidolon-helvum": {
+    "commonName": "Straw-colored Fruit Bat",
+    "description": "A large fruit bat species that plays a vital role in seed dispersal in Africa.",
+    "habitat": "Forests, savannas, and urban areas in sub-Saharan Africa",
+    "isEndangered": "nearThreatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "enhydra-lutris": {
+    "commonName": "Sea Otter",
+    "description": "A marine mammal known for its use of tools to open shellfish and its role in kelp forest ecosystems.",
+    "habitat": "Coastal waters of the northern and eastern North Pacific Ocean",
+    "isEndangered": "endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "enteroctopus-dofleini": {
+    "commonName": "Giant Pacific Octopus",
+    "description": "The largest species of octopus, known for its intelligence and long lifespan.",
+    "habitat": "Coastal waters of the North Pacific, particularly around Alaska and Japan",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "equus-caballus": {
+    "commonName": "Horse",
+    "description": "A domesticated hoofed mammal that has been used for transportation, work, and sport.",
+    "habitat": "Various, from grasslands to urban environments worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "equus-quagga": {
+    "commonName": "Plains Zebra",
+    "description": "A wild equid species known for its distinctive black and white stripes.",
+    "habitat": "Savannas and grasslands in eastern and southern Africa",
+    "isEndangered": "nearThreatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eudocimus-albus": {
+    "commonName": "American White Ibis",
+    "description": "A wading bird known for its white plumage and curved red bill, commonly found in wetlands.",
+    "habitat": "Wetlands, marshes, and coastal areas in the southeastern United States, Central America, and the Caribbean",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eunectes-murinus": {
+    "commonName": "Green Anaconda",
+    "description": "The largest and heaviest snake in the world, known for its strength and aquatic habits.",
+    "habitat": "Swamps, marshes, and rivers in the Amazon Basin and other parts of South America",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "falco-peregrinus": {
+    "commonName": "Peregrine Falcon",
+    "description": "The fastest bird in the world, known for its incredible diving speed when hunting prey.",
+    "habitat": "Worldwide, in various environments including urban areas, cliffs, and mountains",
+    "isEndangered": "recovered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "felis-catus": {
+    "commonName": "Domestic Cat",
+    "description": "A small carnivorous mammal commonly kept as a pet, known for its independence and agility.",
+    "habitat": "Various, including homes, urban areas, and rural environments worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "formicidae": {
+    "commonName": "Ants",
+    "description": "A diverse family of insects known for their complex social structures and ability to form colonies.",
+    "habitat": "Nearly all terrestrial habitats worldwide",
+    "isEndangered": "varies by species",
+    "isDangerous": "some species are dangerous",
+    "venomous": "some species are venomous",
+    "poisonous": "some species can cause allergic reactions"
+  },
+  "gallus-gallus-domesticus": {
+    "commonName": "Chicken",
+    "description": "A domesticated bird widely raised for meat and eggs, known for its economic and cultural significance.",
+    "habitat": "Farms, backyards, and various rural environments worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gavialis-gangeticus": {
+    "commonName": "Gharial",
+    "description": "A critically endangered crocodilian with a long, narrow snout, primarily found in rivers.",
+    "habitat": "Rivers in the Indian subcontinent",
+    "isEndangered": "critically endangered",
+    "isDangerous": "potentially dangerous",
+    "venomous": false,
+    "poisonous": false
+  },
+  "geococcyx-californianus": {
+    "commonName": "Greater Roadrunner",
+    "description": "A fast-running bird native to deserts, known for its distinctive crest and long tail.",
+    "habitat": "Deserts, scrublands, and open areas in the southwestern United States and Mexico",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "giraffa-camelopardalis": {
+    "commonName": "Giraffe",
+    "description": "The tallest land animal, known for its long neck and distinctive spotted coat.",
+    "habitat": "Savannas and woodlands in sub-Saharan Africa",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gorilla-gorilla": {
+    "commonName": "Western Gorilla",
+    "description": "A large primate known for its strength and social behavior, primarily found in Central Africa.",
+    "habitat": "Tropical rainforests in Central Africa",
+    "isEndangered": "critically endangered",
+    "isDangerous": "potentially dangerous",
+    "venomous": false,
+    "poisonous": false
+  },
+  "haliaeetus-leucocephalus": {
+    "commonName": "Bald Eagle",
+    "description": "The national bird of the United States, known for its white head and majestic presence.",
+    "habitat": "Near large bodies of open water with abundant food supply, across North America",
+    "isEndangered": "recovered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hapalochlaena-maculosa": {
+    "commonName": "Blue-ringed octopus",
+    "description": "A small, highly venomous octopus known for its bright blue rings.",
+    "habitat": "Tidal pools and coral reefs in the Pacific Ocean",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "heloderma-suspectum": {
+    "commonName": "Gila monster",
+    "description": "A venomous lizard with a stout body and bead-like scales.",
+    "habitat": "Deserts and scrublands of the southwestern United States and Mexico",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "heterocera": {
+    "commonName": "Moths",
+    "description": "Insects closely related to butterflies, typically nocturnal.",
+    "habitat": "Varied, including forests, grasslands, and urban areas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hippopotamus-amphibius": {
+    "commonName": "Hippopotamus",
+    "description": "A large, mostly herbivorous mammal known for its aggressive behavior.",
+    "habitat": "Rivers and lakes in sub-Saharan Africa",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "homo-sapiens": {
+    "commonName": "Human",
+    "description": "The only extant species of the genus Homo, known for advanced cognitive abilities.",
+    "habitat": "Globally diverse, including urban and rural areas",
+    "isEndangered": false,
+    "isDangerous": "varies",
+    "venomous": false,
+    "poisonous": false
+  },
+  "hydrurga-leptonyx": {
+    "commonName": "Leopard seal",
+    "description": "A large seal known for its predatory behavior, especially towards penguins.",
+    "habitat": "Antarctic and sub-Antarctic waters",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "icterus-galbula": {
+    "commonName": "Baltimore oriole",
+    "description": "A small bird known for its bright orange and black plumage.",
+    "habitat": "Woodlands, gardens, and suburban areas in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "icterus-gularis": {
+    "commonName": "Altamira oriole",
+    "description": "A bright orange and black bird found in southern Texas and Mexico.",
+    "habitat": "Riparian woodlands, scrublands, and suburban areas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "icterus-spurius": {
+    "commonName": "Orchard oriole",
+    "description": "The smallest North American oriole, known for its chestnut-colored plumage.",
+    "habitat": "Open woodlands, gardens, and orchards",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "iguana-iguana": {
+    "commonName": "Green iguana",
+    "description": "A large, arboreal lizard with distinctive green coloration and a row of spines along its back.",
+    "habitat": "Tropical rainforests of Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "iguanodon-bernissartensis": {
+    "commonName": "Bernissart Iguanodon",
+    "description": "A herbivorous dinosaur known for its thumb spikes and large size.",
+    "habitat": "Late Cretaceous period, primarily in Europe",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "inia-geoffrensis": {
+    "commonName": "Amazon river dolphin",
+    "description": "A freshwater dolphin with a pinkish hue and long, flexible snout.",
+    "habitat": "Amazon and Orinoco river systems in South America",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lampropeltis-triangulum": {
+    "commonName": "Milk snake",
+    "description": "A non-venomous snake with a distinctive banded pattern, often mistaken for venomous species.",
+    "habitat": "Varied habitats including grasslands, forests, and rocky areas in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lemur-catta": {
+    "commonName": "Ring-tailed lemur",
+    "description": "A lemur known for its striking ringed tail and social behavior.",
+    "habitat": "Spiny and dry deciduous forests of Madagascar",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lepus-americanus": {
+    "commonName": "Snowshoe hare",
+    "description": "A hare adapted to snowy environments, with large hind feet for better mobility in snow.",
+    "habitat": "Northern forests and tundra of North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "loxodonta-africana": {
+    "commonName": "African elephant",
+    "description": "The largest land mammal, characterized by its large ears, trunk, and tusks.",
+    "habitat": "Savannas, forests, and deserts of Africa",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "macropus-giganteus": {
+    "commonName": "Eastern grey kangaroo",
+    "description": "A large kangaroo known for its powerful legs and distinctive grey fur.",
+    "habitat": "Grasslands and open woodlands of eastern Australia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "malayopython-reticulatus": {
+    "commonName": "Reticulated python",
+    "description": "One of the longest snakes in the world, recognized by its complex pattern of diamond-shaped markings.",
+    "habitat": "Rainforests, woodlands, and grasslands of Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mammuthus-primigenius": {
+    "commonName": "Woolly mammoth",
+    "description": "An extinct mammoth species known for its long, curved tusks and thick fur.",
+    "habitat": "Tundra and steppe regions of the northern hemisphere during the last Ice Age",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "martes-americana": {
+    "commonName": "American marten",
+    "description": "A small, agile carnivore with a bushy tail and a yellowish throat patch.",
+    "habitat": "Forests of North America, particularly in mountainous and coniferous regions",
+    "isEndangered": "varies by region",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "megaptera-novaeangliae": {
+    "commonName": "Humpback whale",
+    "description": "A large baleen whale known for its complex songs and acrobatic breaches.",
+    "habitat": "Oceans worldwide, migrating between feeding grounds in polar waters and breeding grounds in tropical waters",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "melanerpes-carolinus": {
+    "commonName": "Red-bellied woodpecker",
+    "description": "A medium-sized woodpecker with a distinctive red belly and a loud call.",
+    "habitat": "Woodlands, forests, and suburban areas in the southeastern United States",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mellisuga-helenae": {
+    "commonName": "Bee hummingbird",
+    "description": "The smallest bird in the world, known for its rapid wing beats and iridescent plumage.",
+    "habitat": "Forests and gardens of Cuba and the Isle of Youth",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mergus-serrator": {
+    "commonName": "Red-breasted merganser",
+    "description": "A diving duck with a distinctive shaggy crest and a red bill.",
+    "habitat": "Lakes, rivers, and coastal waters in North America, Europe, and Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mimus-polyglottos": {
+    "commonName": "Northern mockingbird",
+    "description": "A bird known for its ability to mimic the songs of other birds and environmental sounds.",
+    "habitat": "Open woodlands, scrublands, and urban areas in North and Central America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "monodon-monoceros": {
+    "commonName": "Narwhal",
+    "description": "A whale with a long, spiraled tusk that can reach lengths of up to 10 feet.",
+    "habitat": "Arctic waters, primarily around Greenland, Canada, and Russia",
+    "isEndangered": "near threatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "musca-domestica": {
+    "commonName": "Housefly",
+    "description": "A common fly known for its widespread presence and ability to rapidly reproduce.",
+    "habitat": "Human habitations and urban areas worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "odobenus-rosmarus": {
+    "commonName": "Walrus",
+    "description": "A large marine mammal known for its long tusks and whiskered face.",
+    "habitat": "Arctic and sub-Arctic regions, primarily on sea ice",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "okapia-johnstoni": {
+    "commonName": "Okapi",
+    "description": "A forest-dwelling relative of the giraffe with zebra-like stripes on its legs.",
+    "habitat": "Dense rainforests of the Democratic Republic of Congo",
+    "isEndangered": "endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ophiophagus-hannah": {
+    "commonName": "King cobra",
+    "description": "The world's longest venomous snake, known for its potent neurotoxic venom.",
+    "habitat": "Forests and grasslands of Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "orcinus-orca": {
+    "commonName": "Orca",
+    "description": "A large, highly intelligent predator also known as the killer whale, recognizable by its black-and-white coloration.",
+    "habitat": "Oceans worldwide, from the Arctic to the Antarctic",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ornithorhynchus-anatinus": {
+    "commonName": "Platypus",
+    "description": "A unique mammal known for its egg-laying, duck-like bill, and venomous spur.",
+    "habitat": "Freshwater rivers and streams of eastern Australia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": true,
+    "poisonous": false
+  },
+  "ovis-aries": {
+    "commonName": "Domestic sheep",
+    "description": "A domesticated ruminant known for its wool, meat, and milk.",
+    "habitat": "Varied, including farms and pastures worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ovis-canadensis": {
+    "commonName": "Bighorn sheep",
+    "description": "A wild sheep known for its impressive curved horns and rugged mountain habitat.",
+    "habitat": "Rocky mountainous regions of North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "panthera-leo": {
+    "commonName": "Lion",
+    "description": "A large, social big cat known for its majestic mane and powerful build.",
+    "habitat": "Grasslands and savannas of Africa, with small populations in India",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "panthera-onca": {
+    "commonName": "Jaguar",
+    "description": "A large, powerful cat with a distinctive coat pattern, native to the Americas.",
+    "habitat": "Rainforests, swamps, and grasslands of Central and South America",
+    "isEndangered": "near threatened",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "panthera-pardus": {
+    "commonName": "Leopard",
+    "description": "A solitary big cat with a spotted coat, adaptable to various habitats.",
+    "habitat": "Forests, savannas, and grasslands across Africa and parts of Asia",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "panthera-tigris": {
+    "commonName": "Tiger",
+    "description": "The largest of the big cats, recognized by its orange coat with black stripes.",
+    "habitat": "Forests, grasslands, and wetlands across Asia",
+    "isEndangered": "endangered",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pantherophis-alleghaniensis": {
+    "commonName": "Eastern rat snake",
+    "description": "A large, non-venomous snake known for its ability to constrict prey.",
+    "habitat": "Woodlands, fields, and suburban areas of the eastern United States",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pantherophis-guttatus": {
+    "commonName": "Corn snake",
+    "description": "A non-venomous snake with a distinctive orange coloration and black-edged red spots.",
+    "habitat": "Grasslands, woodlands, and farmlands of the southeastern United States",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "papilio-glaucus": {
+    "commonName": "Eastern tiger swallowtail",
+    "description": "A large, striking butterfly with black and yellow stripes and tail-like extensions on its hind wings.",
+    "habitat": "Deciduous forests, gardens, and urban areas of eastern North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "passerina-ciris": {
+    "commonName": "Painted bunting",
+    "description": "A brightly colored songbird with a mix of blue, green, and red plumage.",
+    "habitat": "Woodlands, brushlands, and gardens in the southeastern United States and northeastern Mexico",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pavo-cristatus": {
+    "commonName": "Indian peafowl",
+    "description": "A large, colorful bird known for its iridescent tail feathers and elaborate courtship display.",
+    "habitat": "Forests and open areas of the Indian subcontinent",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "periplaneta-americana": {
+    "commonName": "American cockroach",
+    "description": "A large cockroach with a reddish-brown color and a distinctive pronotum that covers its head.",
+    "habitat": "Warm, damp environments such as kitchens and basements in the Americas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "phascolarctos-cinereus": {
+    "commonName": "Koala",
+    "description": "A marsupial with a distinctively large nose and gray fur, known for its tree-dwelling lifestyle.",
+    "habitat": "Eucalyptus forests and woodlands of eastern Australia",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "phoebetria-fusca": {
+    "commonName": "Sooty albatross",
+    "description": "A large seabird with dark plumage and a distinctive white patch on its wings.",
+    "habitat": "Subantarctic islands and open ocean of the Southern Hemisphere",
+    "isEndangered": "near threatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "phoenicopterus-ruber": {
+    "commonName": "American flamingo",
+    "description": "A large wading bird with bright pink feathers and long legs, known for its distinctive feeding behavior.",
+    "habitat": "Salt lagoons, mudflats, and estuaries of the Americas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "phyllobates-terribilis": {
+    "commonName": "Golden poison dart frog",
+    "description": "One of the most toxic animals in the world, known for its bright yellow coloration.",
+    "habitat": "Rainforests of western Colombia",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": true
+  },
+  "physalia-physalis": {
+    "commonName": "Portuguese man o' war",
+    "description": "A jellyfish-like marine creature with a gas-filled sac and long, venomous tentacles.",
+    "habitat": "Warm ocean waters worldwide",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "physeter-macrocephalus": {
+    "commonName": "Sperm whale",
+    "description": "The largest toothed predator, known for its massive head and deep-diving abilities.",
+    "habitat": "Deep ocean waters worldwide",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "poecile-atricapillus": {
+    "commonName": "Black-capped chickadee",
+    "description": "A small, non-migratory bird known for its distinctive 'chick-a-dee' call and black cap.",
+    "habitat": "Deciduous and mixed woodlands of North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pongo-abelii": {
+    "commonName": "Sumatran orangutan",
+    "description": "A critically endangered orangutan species native to the island of Sumatra, known for its reddish fur and more rounded face.",
+    "habitat": "Tropical rainforests of Sumatra",
+    "isEndangered": "critically endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "procyon-lotor": {
+    "commonName": "Raccoon",
+    "description": "A highly adaptable mammal known for its distinctive mask-like face and dexterous paws.",
+    "habitat": "Urban areas, forests, and wetlands throughout North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pteranodon-longiceps": {
+    "commonName": "Pteranodon",
+    "description": "A large, extinct pterosaur with a distinctive long, backward-stretching cranial crest.",
+    "habitat": "Late Cretaceous marine environments",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pterois-mombasae": {
+    "commonName": "Mombasa lionfish",
+    "description": "A venomous marine fish with striking red and white striped patterns and long, spiny fins.",
+    "habitat": "Coral reefs and rocky areas of the Indian Ocean",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "pterois-volitans": {
+    "commonName": "Red lionfish",
+    "description": "An invasive marine species with venomous spines and a distinctive, elaborate fin structure.",
+    "habitat": "Coral reefs and shallow waters of the Indo-Pacific region",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": true,
+    "poisonous": false
+  },
+  "puma-concolor": {
+    "commonName": "Mountain lion",
+    "description": "A large, solitary cat with a tawny coat and broad range, known for its adaptability to various habitats.",
+    "habitat": "Various habitats including mountains, forests, and grasslands across the Americas",
+    "isEndangered": "varies by region",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rattus-rattus": {
+    "commonName": "Black rat",
+    "description": "A small, agile rodent with a long tail and a history of spread through human activity.",
+    "habitat": "Urban areas, forests, and agricultural lands worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rusa-unicolor": {
+    "commonName": "Sambar deer",
+    "description": "A large deer with a robust build and distinctive shaggy coat.",
+    "habitat": "Forests and grasslands of South and Southeast Asia",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "salmo-salar": {
+    "commonName": "Atlantic salmon",
+    "description": "A migratory fish known for its long migrations between freshwater and the ocean.",
+    "habitat": "Cold, fast-flowing rivers and coastal waters of the North Atlantic",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sciurus-carolinensis": {
+    "commonName": "Eastern gray squirrel",
+    "description": "A common tree-dwelling rodent with a bushy tail and gray fur.",
+    "habitat": "Woodlands, urban parks, and suburban areas of eastern North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "smilodon-populator": {
+    "commonName": "Giant saber-toothed cat",
+    "description": "An extinct predator known for its long, curved saber teeth and robust build.",
+    "habitat": "Pleistocene South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "spheniscus-demersus": {
+    "commonName": "African penguin",
+    "description": "A small penguin species with distinctive black spots on its white belly and a loud braying call.",
+    "habitat": "Coastal areas of South Africa and Namibia",
+    "isEndangered": "endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sphyrna-mokarran": {
+    "commonName": "Great hammerhead shark",
+    "description": "A large shark known for its distinctive hammer-shaped head and powerful build.",
+    "habitat": "Warm ocean waters, including coastal and offshore areas",
+    "isEndangered": "endangered",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "spinosaurus-aegyptiacus": {
+    "commonName": "Spinosaurus",
+    "description": "An enormous, semi-aquatic dinosaur with a distinctive sail-like structure on its back.",
+    "habitat": "Cretaceous river systems of North Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "stegosaurus-stenops": {
+    "commonName": "Stegosaurus",
+    "description": "A herbivorous dinosaur with distinctive plates along its back and spiked tail.",
+    "habitat": "Jurassic forests of North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "struthio-camelus": {
+    "commonName": "Ostrich",
+    "description": "The largest living bird, known for its large size, long legs, and inability to fly.",
+    "habitat": "Savannas, grasslands, and open woodlands of Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tapirus": {
+    "commonName": "Tapir",
+    "description": "A large, herbivorous mammal with a prehensile snout, resembling a cross between a horse and a pig.",
+    "habitat": "Rainforests and wetlands of Central and South America, and Southeast Asia",
+    "isEndangered": "varies by species",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tarsius-pumilus": {
+    "commonName": "Pygmy tarsier",
+    "description": "One of the smallest primates, with large eyes and a nocturnal lifestyle.",
+    "habitat": "Forests of Sulawesi, Indonesia",
+    "isEndangered": "critically endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "taurotragus-oryx": {
+    "commonName": "Eland",
+    "description": "A large antelope with spiraled horns and a robust build, known for its size and graceful movements.",
+    "habitat": "Savannas, woodlands, and semi-deserts of Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "telmatobufo-bullocki": {
+    "commonName": "Bullock's water frog",
+    "description": "A large, aquatic frog native to Chile, known for its robust build and semi-aquatic lifestyle.",
+    "habitat": "Wetlands and slow-moving water bodies in Chile",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "thryothorus-ludovicianus": {
+    "commonName": "Carolina wren",
+    "description": "A small, energetic bird with a distinctive loud song and a rufous-brown color.",
+    "habitat": "Woodlands, gardens, and scrublands of the southeastern United States",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "triceratops-horridus": {
+    "commonName": "Triceratops",
+    "description": "A large, herbivorous dinosaur with three distinct facial horns and a bony frill at the back of its head.",
+    "habitat": "Late Cretaceous period in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "trilobita": {
+    "commonName": "Trilobite",
+    "description": "An extinct group of marine arthropods known for their three-lobed body structure and diverse forms.",
+    "habitat": "Ancient seas and ocean environments from the Cambrian to Permian periods",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "turdus-migratorius": {
+    "commonName": "American robin",
+    "description": "A common North American bird with a bright red breast and melodious song, often seen in gardens and parks.",
+    "habitat": "Open woodlands, gardens, and urban areas across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tursiops-truncatus": {
+    "commonName": "Bottlenose dolphin",
+    "description": "A highly intelligent and social marine mammal known for its playful behavior and distinctive curved dorsal fin.",
+    "habitat": "Warm and temperate oceanic waters worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tyrannosaurus-rex": {
+    "commonName": "Tyrannosaurus rex",
+    "description": "One of the most famous dinosaurs, known for its large size, powerful jaws, and fierce predatory nature.",
+    "habitat": "Late Cretaceous period in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tyrannus-tyrannus": {
+    "commonName": "Eastern kingbird",
+    "description": "A small, aggressive bird known for its striking black cap, white belly, and distinctive aerial acrobatics.",
+    "habitat": "Open woodlands, fields, and gardens across eastern North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ursus-arctos-horribilis": {
+    "commonName": "Grizzly bear",
+    "description": "A large, powerful bear found in North America with a distinctive hump over its shoulders.",
+    "habitat": "Forests, mountain regions, and prairies of North America",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ursus-maritimus": {
+    "commonName": "Polar bear",
+    "description": "A large bear adapted to life in the Arctic, known for its white fur and keen hunting skills on ice.",
+    "habitat": "Sea ice and coastal areas of the Arctic",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "varanus-komodoensis": {
+    "commonName": "Komodo dragon",
+    "description": "The largest living lizard, known for its formidable size, powerful bite, and scavenging behavior.",
+    "habitat": "Islands of Indonesia, including Komodo, Rinca, and Flores",
+    "isEndangered": "vulnerable",
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "vulpes-vulpes": {
+    "commonName": "Red fox",
+    "description": "A highly adaptable fox with a reddish-brown coat and bushy tail, found across the Northern Hemisphere.",
+    "habitat": "A wide range of habitats including forests, grasslands, and urban areas worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "vultur-gryphus": {
+    "commonName": "Andean condor",
+    "description": "One of the world's largest flying birds, known for its impressive wingspan and soaring flight over the Andes.",
+    "habitat": "High mountain regions and open grasslands of South America",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  }
+}

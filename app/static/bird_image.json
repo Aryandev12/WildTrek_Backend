@@ -1,0 +1,4862 @@
+{
+  "abbotts-babbler": {
+    "commonName": "Abbott's Babbler",
+    "description": "A small, shy bird known for its olive-brown plumage and distinctive song.",
+    "habitat": "Dense forests and undergrowth in South and Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "abbotts-booby": {
+    "commonName": "Abbott's Booby",
+    "description": "A large seabird with black and white plumage, known for nesting on Christmas Island.",
+    "habitat": "Tropical seas, particularly around Christmas Island",
+    "isEndangered": "endangered",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "abyssinian-ground-hornbill": {
+    "commonName": "Abyssinian Ground Hornbill",
+    "description": "A large terrestrial bird with striking blue skin around the eyes and a red throat pouch.",
+    "habitat": "Savannas and open woodlands of East Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "african-crowned-crane": {
+    "commonName": "African Crowned Crane",
+    "description": "A colorful bird with a distinctive crown of golden feathers and a loud honking call.",
+    "habitat": "Wetlands and grasslands across sub-Saharan Africa",
+    "isEndangered": "vulnerable",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "african-emerald-cuckoo": {
+    "commonName": "African Emerald Cuckoo",
+    "description": "A brightly colored bird known for its iridescent green feathers and distinct whistling call.",
+    "habitat": "Forests and woodlands in sub-Saharan Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "african-firefinch": {
+    "commonName": "African Firefinch",
+    "description": "A small, vibrant bird with red and brown plumage, often found in pairs or small groups.",
+    "habitat": "Savannas, grasslands, and open woodlands in sub-Saharan Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "african-oyster-catcher": {
+    "commonName": "African Oystercatcher",
+    "description": "A coastal bird with black plumage and a bright red bill, known for feeding on shellfish.",
+    "habitat": "Rocky shores and sandy beaches of southern Africa",
+    "isEndangered": "near threatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "african-pied-hornbill": {
+    "commonName": "African Pied Hornbill",
+    "description": "A medium-sized bird with a large, curved bill and distinctive black and white plumage.",
+    "habitat": "Forests and savannas in sub-Saharan Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "african-pygmy-goose": {
+    "commonName": "African Pygmy Goose",
+    "description": "A small, brightly colored waterfowl with green and white plumage, found in wetlands.",
+    "habitat": "Wetlands, lakes, and slow-moving rivers in sub-Saharan Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "albatross": {
+    "commonName": "Albatross",
+    "description": "Large seabirds known for their long wingspans and impressive gliding capabilities over the ocean.",
+    "habitat": "Open oceans and coastal areas worldwide",
+    "isEndangered": "varies by species",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "alberts-towhee": {
+    "commonName": "Albert's Towhee",
+    "description": "A small, brown songbird endemic to the deserts of the southwestern United States.",
+    "habitat": "Arid scrublands and desert areas in southwestern USA",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "alexandrine-parakeet": {
+    "commonName": "Alexandrine Parakeet",
+    "description": "A large parakeet with a green body and a distinctive rose-colored ring around its neck.",
+    "habitat": "Woodlands, forests, and urban areas in South Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "alpine-chough": {
+    "commonName": "Alpine Chough",
+    "description": "A mountain-dwelling bird with black plumage and yellow beak, known for its acrobatic flight.",
+    "habitat": "High mountains across Europe and Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "altamira-yellowthroat": {
+    "commonName": "Altamira Yellowthroat",
+    "description": "A bright yellow warbler with a distinctive black mask, found in reed beds and marshes.",
+    "habitat": "Marshes and wetlands in Mexico and Central America",
+    "isEndangered": "near threatened",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-avocet": {
+    "commonName": "American Avocet",
+    "description": "A slender shorebird with long legs and a distinctive upturned bill, known for its striking black and white plumage.",
+    "habitat": "Wetlands, estuaries, and salt flats in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-bittern": {
+    "commonName": "American Bittern",
+    "description": "A secretive heron-like bird, known for its camouflaged plumage and distinctive booming call.",
+    "habitat": "Freshwater marshes across North America",
+    "isEndangered": "least concern",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-coot": {
+    "commonName": "American Coot",
+    "description": "A waterbird with a black body and white bill, often seen swimming in lakes and ponds.",
+    "habitat": "Lakes, ponds, and marshes throughout North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-dipper": {
+    "commonName": "American Dipper",
+    "description": "A small, gray bird known for its habit of dipping and diving in fast-flowing streams.",
+    "habitat": "Mountain streams and rivers in North and Central America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-flamingo": {
+    "commonName": "American Flamingo",
+    "description": "A large wading bird with vibrant pink feathers and a curved bill, often seen in shallow waters.",
+    "habitat": "Coastal lagoons, salt flats, and mangroves in the Caribbean and parts of South America",
+    "isEndangered": "least concern",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-goldfinch": {
+    "commonName": "American Goldfinch",
+    "description": "A small, bright yellow bird with a cheerful song, often seen in flocks.",
+    "habitat": "Open woodlands, fields, and gardens across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-kestrel": {
+    "commonName": "American Kestrel",
+    "description": "A small falcon known for its colorful plumage and rapid flight, often seen hovering in search of prey.",
+    "habitat": "Open fields, farmlands, and urban areas across North and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-pipit": {
+    "commonName": "American Pipit",
+    "description": "A slender, ground-dwelling bird that forages on insects, known for its bobbing tail.",
+    "habitat": "Tundra, alpine meadows, and grasslands across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-redstart": {
+    "commonName": "American Redstart",
+    "description": "A small warbler with bright orange patches, known for its fluttering hunting style.",
+    "habitat": "Deciduous forests and woodland edges in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-robin": {
+    "commonName": "American Robin",
+    "description": "A common songbird with a red-orange breast, known for its melodic song.",
+    "habitat": "Forests, gardens, and urban areas across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "american-wigeon": {
+    "commonName": "American Wigeon",
+    "description": "A dabbling duck with a distinctive white crown, often seen in flocks on lakes and wetlands.",
+    "habitat": "Marshes, lakes, and ponds across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "amethyst-woodstar": {
+    "commonName": "Amethyst Woodstar",
+    "description": "A tiny hummingbird with iridescent purple throat feathers, known for its rapid flight and agility.",
+    "habitat": "Forest edges and gardens in South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "andean-goose": {
+    "commonName": "Andean Goose",
+    "description": "A large waterfowl with white plumage, adapted to the high-altitude wetlands of the Andes.",
+    "habitat": "High-altitude wetlands in the Andes mountains",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "andean-lapwing": {
+    "commonName": "Andean Lapwing",
+    "description": "A medium-sized bird with a black crest and distinctive call, often seen in pairs or small groups.",
+    "habitat": "High-altitude grasslands and wetlands in the Andes",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "andean-siskin": {
+    "commonName": "Andean Siskin",
+    "description": "A small, bright yellow finch found in high-altitude Andean forests and shrublands.",
+    "habitat": "High-altitude forests and shrublands in the Andes Mountains",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "anhinga": {
+    "commonName": "Anhinga",
+    "description": "A water bird known for its snake-like neck and diving ability, often seen drying its wings in the sun.",
+    "habitat": "Freshwater swamps, rivers, and lakes in warm climates",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "anianiau": {
+    "commonName": "ʻAnianiau",
+    "description": "A small Hawaiian honeycreeper with bright yellow-green plumage, feeding on nectar and insects.",
+    "habitat": "Montane forests on the island of Kauai, Hawaii",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "annas-hummingbird": {
+    "commonName": "Anna's Hummingbird",
+    "description": "A medium-sized hummingbird known for its iridescent emerald feathers and rapid, darting flight.",
+    "habitat": "Gardens, woodlands, and coastal scrub in western North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "antbird": {
+    "commonName": "Antbird",
+    "description": "A diverse group of insectivorous birds found in the understory of tropical forests, often following army ants.",
+    "habitat": "Tropical and subtropical forests in Central and South America",
+    "isEndangered": "varies by species",
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "antillean-euphonia": {
+    "commonName": "Antillean Euphonia",
+    "description": "A small, brightly colored songbird found in the Caribbean, known for its sweet, melodious song.",
+    "habitat": "Woodlands and gardens in the Caribbean islands",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "apapane": {
+    "commonName": "'Apapane",
+    "description": "A vibrant red Hawaiian honeycreeper that feeds on nectar from native flowers like the 'ōhi'a lehua.",
+    "habitat": "Forests in Hawaii, particularly in the Hawaiian Islands",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "apostlebird": {
+    "commonName": "Apostlebird",
+    "description": "A sociable bird found in Australian woodlands, known for traveling in large groups and chattering calls.",
+    "habitat": "Woodlands and scrublands in eastern Australia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "araripe-manakin": {
+    "commonName": "Araripe Manakin",
+    "description": "A small bird with striking red, black, and white plumage, critically endangered due to habitat loss.",
+    "habitat": "Lowland forests along the Araripe Plateau in Brazil",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ashy-storm-petrel": {
+    "commonName": "Ashy Storm-Petrel",
+    "description": "A small, dark seabird with ash-grey plumage, known for its nocturnal habits and elusive nature.",
+    "habitat": "Northeast Pacific Ocean, particularly around offshore islands and rocky coasts",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ashy-thrushbird": {
+    "commonName": "Ashy Thrushbird",
+    "description": "A rare bird with grey-brown plumage, typically found in dense undergrowth and lowland forests.",
+    "habitat": "Lowland forests and dense undergrowth in the Philippines",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "asian-crested-ibis": {
+    "commonName": "Asian Crested Ibis",
+    "description": "A large white bird with a red face and crest, known for its elegant posture and endangered status.",
+    "habitat": "Wetlands, rice paddies, and rivers in East Asia",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "asian-dollard-bird": {
+    "commonName": "Asian Dollarbird",
+    "description": "A medium-sized bird with bright blue-green plumage and distinctive circular white patches on its wings.",
+    "habitat": "Open woodlands, forests, and farmlands across Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "asian-green-bee-eater": {
+    "commonName": "Asian Green Bee-Eater",
+    "description": "A small, vibrant green bird with a slender build and long, pointed tail feathers, known for catching bees in flight.",
+    "habitat": "Open fields, grasslands, and farmlands in South and Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "asian-openbill-stork": {
+    "commonName": "Asian Openbill Stork",
+    "description": "A large wading bird with a distinctive gap between its upper and lower bill, adapted for feeding on snails.",
+    "habitat": "Wetlands, marshes, and rice paddies across South and Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "auckland-shaq": {
+    "commonName": "Auckland Shag",
+    "description": "A medium-sized cormorant native to New Zealand, with glossy black feathers and a distinctive white face patch.",
+    "habitat": "Coastal waters and rocky shores of the Auckland Islands, New Zealand",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "austral-canasero": {
+    "commonName": "Austral Canastero",
+    "description": "A small bird with brown plumage, known for its active foraging in shrubby habitats.",
+    "habitat": "Patagonian steppe and shrublands in South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "australasian-figbird": {
+    "commonName": "Australasian Figbird",
+    "description": "A medium-sized bird with a bright red eye patch and a penchant for eating figs and other fruits.",
+    "habitat": "Tropical and subtropical forests of Australia and New Guinea",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "avadavat": {
+    "commonName": "Avadavat",
+    "description": "A small, colorful bird also known as the Red Munia or Strawberry Finch, popular in aviculture.",
+    "habitat": "Grasslands and fields in South Asia and Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "azaras-spinetail": {
+    "commonName": "Azara's Spinetail",
+    "description": "A small bird with a long, spiky tail, known for its skulking behavior in dense vegetation.",
+    "habitat": "Dense thickets and scrublands in South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "azure-breasted-pitta": {
+    "commonName": "Azure-breasted Pitta",
+    "description": "A striking bird with a bright blue breast and green upperparts, often found in forest undergrowth.",
+    "habitat": "Tropical forests in Southeast Asia, particularly in the Philippines",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "azure-jay": {
+    "commonName": "Azure Jay",
+    "description": "A vibrant blue bird native to the Atlantic Forest, known for its intelligence and social behavior.",
+    "habitat": "Atlantic Forest in Brazil",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "azure-tanager": {
+    "commonName": "Azure Tanager",
+    "description": "A small bird with stunning blue plumage, known for its quiet demeanor and forest habitat.",
+    "habitat": "Humid forests in South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "azure-tit": {
+    "commonName": "Azure Tit",
+    "description": "A small bird with a distinctive azure-blue and white plumage, commonly found in open woodlands.",
+    "habitat": "Open woodlands and river valleys in Eurasia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "baikal-teal": {
+    "commonName": "Baikal Teal",
+    "description": "A small, migratory duck with striking facial markings, primarily breeding in Siberia.",
+    "habitat": "Wetlands and lakes in Siberia and East Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bald-eagle": {
+    "commonName": "Bald Eagle",
+    "description": "A large bird of prey known for its white head and tail, symbolizing strength and freedom in the U.S.",
+    "habitat": "Near large bodies of open water with abundant food and old-growth trees for nesting across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bald-ibis": {
+    "commonName": "Bald Ibis",
+    "description": "A distinctive bird with a bare head and neck, known for its glossy black feathers.",
+    "habitat": "Arid and semi-arid regions in North Africa and the Middle East",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bali-starling": {
+    "commonName": "Bali Starling",
+    "description": "A critically endangered bird known for its striking white plumage and blue skin around the eyes.",
+    "habitat": "Forest edges and savannas of Bali, Indonesia",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "baltimore-oriole": {
+    "commonName": "Baltimore Oriole",
+    "description": "A bright orange and black bird, commonly found in gardens and orchards in North America.",
+    "habitat": "Deciduous forests and gardens in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bananaquit": {
+    "commonName": "Bananaquit",
+    "description": "A small, nectar-feeding bird with a curved bill, common in tropical and subtropical regions.",
+    "habitat": "Tropical and subtropical regions, including the Caribbean and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "band-tailed-guan": {
+    "commonName": "Band-tailed Guan",
+    "description": "A large bird with a long tail and distinctive white-tipped feathers, often seen in tropical forests.",
+    "habitat": "Tropical and subtropical forests in Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "banded-broadbill": {
+    "commonName": "Banded Broadbill",
+    "description": "A colorful bird with a broad bill, known for its striking plumage and loud calls.",
+    "habitat": "Lowland and hill forests in Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "banded-pitta": {
+    "commonName": "Banded Pitta",
+    "description": "A brightly colored bird known for its vivid bands of blue, orange, and black.",
+    "habitat": "Rainforests of Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "banded-stilt": {
+    "commonName": "Banded Stilt",
+    "description": "A wading bird with long legs and a distinctive black breast band.",
+    "habitat": "Salt lakes and wetlands in Australia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bar-tailed-godwit": {
+    "commonName": "Bar-tailed Godwit",
+    "description": "A large shorebird known for its long, straight bill and remarkable migration.",
+    "habitat": "Coastal mudflats, estuaries, and wetlands in Eurasia and Australasia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "barn-owl": {
+    "commonName": "Barn Owl",
+    "description": "A nocturnal bird of prey with a heart-shaped face and silent flight.",
+    "habitat": "Grasslands, farmlands, and open areas globally except polar regions and deserts",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "barn-swallow": {
+    "commonName": "Barn Swallow",
+    "description": "A small migratory bird known for its forked tail and agile flight.",
+    "habitat": "Open fields, meadows, and agricultural areas worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "barred-puffbird": {
+    "commonName": "Barred Puffbird",
+    "description": "A stocky bird with barred plumage, often found perched quietly.",
+    "habitat": "Forests and woodland edges in Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "barrows-goldeneye": {
+    "commonName": "Barrow's Goldeneye",
+    "description": "A diving duck with bright yellow eyes and distinctive white spots on its face.",
+    "habitat": "Lakes, rivers, and coastal waters in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bay-breasted-warbler": {
+    "commonName": "Bay-breasted Warbler",
+    "description": "A small songbird with striking chestnut-colored plumage during breeding season.",
+    "habitat": "Boreal forests in North America during breeding, tropical forests during migration",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bearded-barbet": {
+    "commonName": "Bearded Barbet",
+    "description": "A colorful bird with a prominent black tuft on its chin, found in tropical forests.",
+    "habitat": "Wooded areas and savannas in West and Central Africa",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bearded-bellbird": {
+    "commonName": "Bearded Bellbird",
+    "description": "A bird known for its distinctive 'bell-like' call and prominent wattles on its face.",
+    "habitat": "Tropical rainforests in northern South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bearded-reedling": {
+    "commonName": "Bearded Reedling",
+    "description": "A small, insectivorous bird known for its distinctive black mustache-like markings.",
+    "habitat": "Reed beds and wetlands in Europe and Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "belted-kingfisher": {
+    "commonName": "Belted Kingfisher",
+    "description": "A medium-sized bird with a blue-gray plumage and a loud, rattling call.",
+    "habitat": "Near rivers, lakes, and coasts across North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bird-of-paradise": {
+    "commonName": "Bird of Paradise",
+    "description": "A group of birds known for their extraordinary plumage and elaborate mating dances.",
+    "habitat": "Rainforests and dense bush in New Guinea and surrounding islands",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-and-yellow-broadbill": {
+    "commonName": "Black and Yellow Broadbill",
+    "description": "A small bird with striking black, yellow, and pink plumage and a loud, shrill call.",
+    "habitat": "Tropical forests in Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-baza": {
+    "commonName": "Black Baza",
+    "description": "A small bird of prey with a striking black and white pattern and a crest.",
+    "habitat": "Forests and open woodlands in South Asia and Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-breasted-puffbird": {
+    "commonName": "Black-breasted Puffbird",
+    "description": "A small, stout bird with a black chest and a large head, often perching quietly.",
+    "habitat": "Forests and wooded areas in Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-cockatoo": {
+    "commonName": "Black Cockatoo",
+    "description": "A group of large parrots with distinctive black plumage and powerful bills.",
+    "habitat": "Forests, woodlands, and scrublands in Australia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-faced-spoonbill": {
+    "commonName": "Black-faced Spoonbill",
+    "description": "A medium-sized wader with a distinctive black face and a spoon-shaped bill.",
+    "habitat": "Wetlands and shallow coastal areas in East Asia",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-francolin": {
+    "commonName": "Black Francolin",
+    "description": "A ground-dwelling bird with striking black plumage and a distinctive call.",
+    "habitat": "Grasslands and open woodlands in South Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-headed-caique": {
+    "commonName": "Black-headed Caique",
+    "description": "A small, colorful parrot with a black head and bright orange and green body.",
+    "habitat": "Forests and woodlands in the Amazon Basin",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-necked-stilt": {
+    "commonName": "Black-necked Stilt",
+    "description": "A wader with long legs, a black neck, and white body, known for its striking appearance.",
+    "habitat": "Shallow wetlands and mudflats in the Americas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-skimmer": {
+    "commonName": "Black Skimmer",
+    "description": "A bird with a distinctive black upper body and white underparts, and a long orange bill with a lower mandible longer than the upper.",
+    "habitat": "Coastal beaches and estuaries in the Americas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-swan": {
+    "commonName": "Black Swan",
+    "description": "A large swan with striking black plumage and a red bill, native to Australia.",
+    "habitat": "Lakes, rivers, and wetlands in Australia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-tail-crake": {
+    "commonName": "Black-tail Crake",
+    "description": "A small, elusive bird with dark plumage and a distinctive black tail.",
+    "habitat": "Dense forests and undergrowth in Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-throated-bushtit": {
+    "commonName": "Black-throated Bushtit",
+    "description": "A tiny bird with a black throat and pale belly, known for its active and social behavior.",
+    "habitat": "Forests and wooded areas in East Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-throated-huet": {
+    "commonName": "Black-throated Huet",
+    "description": "A bird species characterized by its black throat and distinctive plumage.",
+    "habitat": "Forests and shrublands in Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-throated-warbler": {
+    "commonName": "Black-throated Warbler",
+    "description": "A small, colorful warbler with a distinctive black throat and white underparts.",
+    "habitat": "Woodlands and forest edges in Eurasia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-vented-shearwater": {
+    "commonName": "Black-vented Shearwater",
+    "description": "A medium-sized seabird with a black underbelly and a white body.",
+    "habitat": "Oceanic waters and coastal regions in the Eastern Pacific",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-vulture": {
+    "commonName": "Black Vulture",
+    "description": "A large vulture with a black plumage and a bald head, known for its scavenging habits.",
+    "habitat": "Open and semi-open areas in the Americas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-capped-chickadee": {
+    "commonName": "Black-capped Chickadee",
+    "description": "A small, friendly bird with a black cap and bib, and white cheeks.",
+    "habitat": "Deciduous and mixed woodlands in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-necked-grebe": {
+    "commonName": "Black-necked Grebe",
+    "description": "A small diving bird with a distinctive black neck and red eyes during the breeding season.",
+    "habitat": "Freshwater lakes and marshes in Europe and Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "black-throated-sparrow": {
+    "commonName": "Black-throated Sparrow",
+    "description": "A small, sparrow-like bird with a black throat and white belly, often found in arid environments.",
+    "habitat": "Deserts and semi-arid regions in the southwestern United States and northern Mexico",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blackburnian-warbler": {
+    "commonName": "Blackburnian Warbler",
+    "description": "A small, brightly colored warbler with striking orange underparts and a black throat.",
+    "habitat": "Forests and woodlands in North America during the breeding season",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blonde-crested-woodpecker": {
+    "commonName": "Blonde-Crested Woodpecker",
+    "description": "A striking woodpecker with a distinctive blonde crest and bold black and white markings.",
+    "habitat": "Tropical and subtropical forests in Central America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blood-pheasant": {
+    "commonName": "Blood Pheasant",
+    "description": "A pheasant with a unique reddish-brown plumage and striking white markings.",
+    "habitat": "Mountain forests and alpine meadows in the eastern Himalayas",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-coau": {
+    "commonName": "Blue Coau",
+    "description": "A vibrant blue bird known for its striking color and active foraging behavior.",
+    "habitat": "Tropical forests in Central and South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-dacnis": {
+    "commonName": "Blue Dacnis",
+    "description": "A small, brightly colored bird with vivid blue feathers and a contrasting black mask.",
+    "habitat": "Lowland and foothill forests in northern South America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-gray-gnatcatcher": {
+    "commonName": "Blue-Gray Gnatcatcher",
+    "description": "A tiny bird with a blue-gray body and a long, slender tail, known for its active insect-catching behavior.",
+    "habitat": "Deciduous forests and mixed woodlands in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-grosbeak": {
+    "commonName": "Blue Grosbeak",
+    "description": "A large, strikingly blue bird with a robust bill, often found in open and semi-open habitats.",
+    "habitat": "Shrublands, open woodlands, and edges in the southern United States and Mexico",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-grouse": {
+    "commonName": "Blue Grouse",
+    "description": "A medium-sized grouse with blue-gray plumage and a distinctive tail fan, adapted to mountainous regions.",
+    "habitat": "Montane forests and alpine meadows in western North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-heron": {
+    "commonName": "Blue Heron",
+    "description": "A tall wading bird with a long neck and legs, and a distinctive blue-gray plumage.",
+    "habitat": "Wetlands, rivers, and coastal marshes worldwide",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-malkoha": {
+    "commonName": "Blue Malkoha",
+    "description": "A striking bird with vivid blue plumage and a long tail, known for its vocalizations and arboreal lifestyle.",
+    "habitat": "Tropical forests in Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-throated-piping-guan": {
+    "commonName": "Blue-Throated Piping Guan",
+    "description": "A large, striking bird with a blue throat and contrasting dark plumage, native to Central and South America.",
+    "habitat": "Lowland tropical forests and forest edges",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "blue-throated-toucanet": {
+    "commonName": "Blue-Throated Toucanet",
+    "description": "A colorful toucanet with a bright blue throat and green body, known for its vibrant appearance and distinctive call.",
+    "habitat": "Mountain forests in Central America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bobolink": {
+    "commonName": "Bobolink",
+    "description": "A small, migratory bird known for its distinctive song and striking black-and-tan plumage during breeding season.",
+    "habitat": "Grasslands and meadows in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bornean-bristlehead": {
+    "commonName": "Bornean Bristlehead",
+    "description": "A unique bird with a distinctive bristly head and striking black and white plumage, found only in Borneo.",
+    "habitat": "Lowland and montane forests in Borneo",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bornean-leafbird": {
+    "commonName": "Bornean Leafbird",
+    "description": "A vibrant green bird with a bright yellow underbelly, known for its leaf-like appearance and feeding habits.",
+    "habitat": "Lowland and montane forests in Borneo and nearby islands",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bornean-pheasant": {
+    "commonName": "Bornean Pheasant",
+    "description": "A large, colorful pheasant native to Borneo, with vivid plumage and a distinctive call.",
+    "habitat": "Mountain forests in Borneo",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brandt-cormorant": {
+    "commonName": "Brandt's Cormorant",
+    "description": "A seabird with striking black plumage and a distinctive white patch on the throat, found along the Pacific coast.",
+    "habitat": "Rocky coastal areas and islands in the North Pacific",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brewers-blackbird": {
+    "commonName": "Brewer's Blackbird",
+    "description": "A medium-sized blackbird with iridescent black feathers and a distinctive yellow eye, found in North America.",
+    "habitat": "Open fields, agricultural areas, and wetlands in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brown-creeper": {
+    "commonName": "Brown Creeper",
+    "description": "A small, brown bird known for its tree-climbing behavior and cryptic plumage that blends with tree bark.",
+    "habitat": "Woodlands and forests in North America and Eurasia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brown-headed-barbet": {
+    "commonName": "Brown-Headed Barbet",
+    "description": "A colorful barbet with a brown head and bright green body, known for its distinct call and vibrant appearance.",
+    "habitat": "Tropical forests and woodlands in Southeast Asia",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brown-headed-cowbird": {
+    "commonName": "Brown-Headed Cowbird",
+    "description": "A small, parasitic bird with a brown head and black body, known for laying eggs in other birds' nests.",
+    "habitat": "Grasslands, prairies, and open woodlands in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brown-noddy": {
+    "commonName": "Brown Noddy",
+    "description": "A seabird with dark brown plumage and a distinctive white cap, known for its agile flight and coastal nesting.",
+    "habitat": "Tropical and subtropical islands in the Pacific and Indian Oceans",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "brown-thrasher": {
+    "commonName": "Brown Thrasher",
+    "description": "A large, rufous-colored bird known for its melodious song and distinctive long, curved bill.",
+    "habitat": "Deciduous forests and shrubby areas in North America",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bufflehead": {
+    "commonName": "Bufflehead",
+    "description": "A small diving duck with striking black and white plumage and a distinctive puffed head.",
+    "habitat": "Northern freshwater lakes and coastal bays in North America during breeding season; coastal waters in winter.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bulwers-pheasant": {
+    "commonName": "Bulwer's Pheasant",
+    "description": "A large, colorful pheasant known for its vibrant plumage and elaborate courtship displays.",
+    "habitat": "Tropical rainforests of Borneo and nearby islands.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "burchells-courser": {
+    "commonName": "Burchell's Courser",
+    "description": "A medium-sized wader with a distinctive black and white pattern and long legs adapted for running.",
+    "habitat": "Open savannas and grasslands in southern Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "bush-turkey": {
+    "commonName": "Bush Turkey",
+    "description": "A large, ground-dwelling bird with dark plumage and a distinctive red wattle, also known as the Australian Brush-turkey.",
+    "habitat": "Rainforests, woodlands, and urban areas in eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "caatinga-cacholote": {
+    "commonName": "Caatinga Cacholote",
+    "description": "A medium-sized bird with brown and white plumage, known for its melodious song and adaptations to the dry Caatinga region.",
+    "habitat": "Caatinga scrublands and dry forests in northeastern Brazil.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cabots-tragopan": {
+    "commonName": "Cabot's Tragopan",
+    "description": "A striking pheasant with bright red and blue plumage, known for its elaborate mating display.",
+    "habitat": "Temperate forests in the eastern Himalayas.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cactus-wren": {
+    "commonName": "Cactus Wren",
+    "description": "A medium-sized wren with a distinctive speckled brown and white plumage, often found in arid regions.",
+    "habitat": "Deserts and arid scrublands in the southwestern United States and northern Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "california-condor": {
+    "commonName": "California Condor",
+    "description": "A large vulture with a wingspan of up to 3 meters, notable for its endangered status and efforts to protect it from extinction.",
+    "habitat": "Mountainous and coastal areas in California, Arizona, and Utah.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "california-gull": {
+    "commonName": "California Gull",
+    "description": "A medium-sized gull with a pale gray body and yellow legs, often found along the Pacific coast.",
+    "habitat": "Coastal areas, estuaries, and inland lakes in western North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "california-quail": {
+    "commonName": "California Quail",
+    "description": "A small, ground-dwelling bird with a distinctive topknot and a mottled brown and gray plumage.",
+    "habitat": "Shrublands, grasslands, and oak woodlands in California.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "campo-flicker": {
+    "commonName": "Campo Flicker",
+    "description": "A type of woodpecker with a distinctive yellow underbelly and a patterned back, found in open woodlands and savannas.",
+    "habitat": "Woodlands and open areas in central South America, particularly Argentina and Uruguay.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "canary": {
+    "commonName": "Canary",
+    "description": "A small songbird known for its bright yellow plumage and melodious song.",
+    "habitat": "Native to the Canary Islands, but also commonly kept as a pet in various habitats worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "canvasback": {
+    "commonName": "Canvasback",
+    "description": "A large diving duck with a distinctive sloping profile and reddish-brown head.",
+    "habitat": "Freshwater lakes and marshes in North America, particularly during migration and winter.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cape-glossy-starling": {
+    "commonName": "Cape Glossy Starling",
+    "description": "A striking starling with iridescent green and purple plumage.",
+    "habitat": "Woodlands, savannas, and open areas in southern Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cape-longclaw": {
+    "commonName": "Cape Longclaw",
+    "description": "A brightly colored bird with a long tail and vibrant yellow underparts.",
+    "habitat": "Grasslands and savannas in southern Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cape-may-warbler": {
+    "commonName": "Cape May Warbler",
+    "description": "A small warbler with a bright yellow belly and olive green back, known for its striking plumage.",
+    "habitat": "Forests and woodlands in North America during breeding season; migrates to Central America in winter.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cape-rock-thrush": {
+    "commonName": "Cape Rock Thrush",
+    "description": "A rock thrush with a bright orange underbelly and blue-gray wings, often seen perched on rocky outcrops.",
+    "habitat": "Rocky hills and open areas in southern Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "capped-heron": {
+    "commonName": "Capped Heron",
+    "description": "A striking heron with a distinctive black cap and white body.",
+    "habitat": "Wetlands, mangroves, and swamps in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "capuchinbird": {
+    "commonName": "Capuchinbird",
+    "description": "A large bird known for its distinctive cap-like feathers and deep, resonant calls.",
+    "habitat": "Lowland forests in the Amazon Basin.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "carmine-bee-eater": {
+    "commonName": "Carmine Bee-eater",
+    "description": "A vibrant bee-eater with striking carmine red plumage and a long, slender bill.",
+    "habitat": "Open woodlands and savannas in southern Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "casian-tern": {
+    "commonName": "Caspian Tern",
+    "description": "A large tern with a distinctive black cap, white body, and red bill.",
+    "habitat": "Coastal areas, lakes, and rivers in Europe, Asia, and Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cassowary": {
+    "commonName": "Cassowary",
+    "description": "A large, flightless bird with a distinctive casque on its head and striking blue and black plumage.",
+    "habitat": "Tropical forests of northern Australia, New Guinea, and nearby islands.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cattle-egret": {
+    "commonName": "Cattle Egret",
+    "description": "A small white heron often seen foraging near livestock and other large mammals.",
+    "habitat": "Grasslands, wetlands, and agricultural areas worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cedar-waxwing": {
+    "commonName": "Cedar Waxwing",
+    "description": "A small, sleek bird with a distinctive crest and yellow-tipped tail feathers.",
+    "habitat": "Deciduous and mixed forests, often near fruiting trees and shrubs in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cerulean-warbler": {
+    "commonName": "Cerulean Warbler",
+    "description": "A small, brightly colored warbler with a cerulean blue back and white underparts.",
+    "habitat": "Deciduous forests in eastern North America during the breeding season; migrates to Central America in winter.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chara-de-collar": {
+    "commonName": "Chara de Collar",
+    "description": "A striking bird with vibrant plumage and a distinctive collar-like throat pattern.",
+    "habitat": "Tropical forests in the Amazon Basin.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chattering-lory": {
+    "commonName": "Chattering Lory",
+    "description": "A brightly colored lory with a lively personality and vivid green, red, and blue plumage.",
+    "habitat": "Forests and woodlands in northern Australia and New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chestnut-bellied-euphonia": {
+    "commonName": "Chestnut-bellied Euphonia",
+    "description": "A small, colorful bird with a chestnut-colored belly and vibrant blue-green plumage.",
+    "habitat": "Lowland forests and forest edges in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chestnut-winged-cuckoo": {
+    "commonName": "Chestnut-winged Cuckoo",
+    "description": "A medium-sized cuckoo with striking chestnut-colored wings and a distinctive call.",
+    "habitat": "Forests and wooded areas in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chinese-bamboo-partridge": {
+    "commonName": "Chinese Bamboo Partridge",
+    "description": "A medium-sized partridge with distinctive plumage and a preference for bamboo thickets.",
+    "habitat": "Bamboo forests and wooded hills in China and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chinese-pond-heron": {
+    "commonName": "Chinese Pond Heron",
+    "description": "A heron with a distinctive reddish-brown and white plumage that changes with the seasons.",
+    "habitat": "Wetlands, ponds, and shallow lakes in East Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chipping-sparrow": {
+    "commonName": "Chipping Sparrow",
+    "description": "A small, agile sparrow with a distinct rufous cap and grayish underparts.",
+    "habitat": "Open woodlands, parks, and residential areas across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chucao-tapaculo": {
+    "commonName": "Chucao Tapaculo",
+    "description": "A secretive, small bird with a reddish-brown body and distinctive call.",
+    "habitat": "Dense temperate forests in Chile and Argentina.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "chukar-partridge": {
+    "commonName": "Chukar Partridge",
+    "description": "A medium-sized partridge with striking black and white markings and a distinctive call.",
+    "habitat": "Rocky, arid regions and mountainous areas of Eurasia and North Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cinnamon-attila": {
+    "commonName": "Cinnamon Attila",
+    "description": "A vibrant, small bird with bright cinnamon-colored plumage and a distinctive call.",
+    "habitat": "Forests and forest edges in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cinnamon-flycatcher": {
+    "commonName": "Cinnamon Flycatcher",
+    "description": "A small flycatcher with a cinnamon-brown body and a soft, melodious call.",
+    "habitat": "Forest edges and open woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cinnamon-teal": {
+    "commonName": "Cinnamon Teal",
+    "description": "A small, striking duck with bright cinnamon-colored plumage.",
+    "habitat": "Wetlands, marshes, and shallow lakes in North and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "clarks-grebe": {
+    "commonName": "Clark's Grebe",
+    "description": "A sleek, long-necked grebe with striking black and white plumage during the breeding season.",
+    "habitat": "Lakes and large ponds in western North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "clarks-nutcracker": {
+    "commonName": "Clark's Nutcracker",
+    "description": "A medium-sized, gray bird with a distinctive black bill and white wing patches.",
+    "habitat": "High elevation coniferous forests in western North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cock-of-the-rock": {
+    "commonName": "Cock-of-the-Rock",
+    "description": "A brightly colored bird with a distinctive orange crest and bold plumage.",
+    "habitat": "Tropical rainforests in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cockatoo": {
+    "commonName": "Cockatoo",
+    "description": "A group of striking parrots with elaborate crests and a range of colors.",
+    "habitat": "Various habitats including forests, woodlands, and urban areas in Australasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "collared-aracari": {
+    "commonName": "Collared Aracari",
+    "description": "A small toucan with a bright yellow and black plumage and a distinctive, colorful bill.",
+    "habitat": "Tropical rainforests in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "collared-crescentchest": {
+    "commonName": "Collared Crescentchest",
+    "description": "A small, striking bird with a distinctive collar of white feathers and a crescent-shaped chest pattern.",
+    "habitat": "Dry grasslands and scrublands in South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-firecrest": {
+    "commonName": "Common Firecrest",
+    "description": "A tiny, brightly colored bird with a fiery orange crest and greenish-yellow plumage.",
+    "habitat": "Forests and woodlands across Europe and parts of Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-grackle": {
+    "commonName": "Common Grackle",
+    "description": "A medium-sized, iridescent blackbird with a long tail and distinctive yellow eyes.",
+    "habitat": "Open woodlands, fields, and urban areas in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-house-martin": {
+    "commonName": "Common House Martin",
+    "description": "A small, agile swallow with a white underside and dark blue upperparts.",
+    "habitat": "Urban areas and open country in Europe, Asia, and Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-iora": {
+    "commonName": "Common Iora",
+    "description": "A small, vibrant bird with bright yellow underparts and contrasting black wings.",
+    "habitat": "Woodlands and forest edges in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-kingfisher": {
+    "commonName": "Common Kingfisher",
+    "description": "A striking bird with bright blue and orange plumage and a distinctive long, sharp bill.",
+    "habitat": "Rivers, lakes, and ponds across Europe, Asia, and North Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-loon": {
+    "commonName": "Common Loon",
+    "description": "A large waterbird with a distinctive black-and-white checkered pattern and a haunting, eerie call.",
+    "habitat": "Freshwater lakes and ponds in North America during the breeding season.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-myna": {
+    "commonName": "Common Myna",
+    "description": "A medium-sized bird with a distinctive yellow patch on its wings and a loud, varied call.",
+    "habitat": "Urban areas, open woodlands, and farmlands across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-poorwill": {
+    "commonName": "Common Poorwill",
+    "description": "A small, nocturnal bird with cryptic plumage that blends into its environment, known for its distinctive call.",
+    "habitat": "Arid and semi-arid regions, particularly in southwestern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-rosefinch": {
+    "commonName": "Common Rosefinch",
+    "description": "A brightly colored finch with a rosy red plumage on the male and a more subdued coloration on the female.",
+    "habitat": "Open country, grasslands, and cultivated areas across Eurasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-starling": {
+    "commonName": "Common Starling",
+    "description": "A medium-sized bird with iridescent feathers and a characteristic, melodious call.",
+    "habitat": "Urban areas, farmlands, and woodlands across Europe, Asia, and parts of Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "common-tailorbird": {
+    "commonName": "Common Tailorbird",
+    "description": "A small, active bird known for its tail, which it often holds upright, and its skill in stitching leaves to build nests.",
+    "habitat": "Scrublands, forests, and gardens in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "coppersmith-barbet": {
+    "commonName": "Coppersmith Barbet",
+    "description": "A small, colorful bird with a bright green body and a distinctive red forehead, known for its metallic calls.",
+    "habitat": "Woodlands, gardens, and urban areas in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "coppery-tailed-coucal": {
+    "commonName": "Coppery-tailed Coucal",
+    "description": "A large, striking bird with a long, copper-colored tail and a distinctive, deep call.",
+    "habitat": "Woodlands, scrublands, and open country in tropical Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crab-plover": {
+    "commonName": "Crab Plover",
+    "description": "A large, striking wader with long legs, a black bill, and a distinctive black-and-white plumage.",
+    "habitat": "Coastal mudflats and sandy shores in the Indian Ocean region.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crane-hawk": {
+    "commonName": "Crane Hawk",
+    "description": "A medium-sized raptor with a long, slender build and a distinctive, narrow bill, known for hunting insects and small vertebrates.",
+    "habitat": "Forests and woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cream-colored-woodpecker": {
+    "commonName": "Cream-colored Woodpecker",
+    "description": "A medium-sized woodpecker with a pale cream-colored body and a distinctive black-and-white striped head.",
+    "habitat": "Forests and woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-auklet": {
+    "commonName": "Crested Auklet",
+    "description": "A seabird with a distinctive crest of feathers on its head and a bright orange bill.",
+    "habitat": "Coastal cliffs and sea stacks in the North Pacific Ocean.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-caracara": {
+    "commonName": "Crested Caracara",
+    "description": "A large, striking raptor with a distinctive crest on its head and a strong, hooked beak.",
+    "habitat": "Open and semi-open landscapes in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-coua": {
+    "commonName": "Crested Coua",
+    "description": "A medium-sized, colorful bird with a long tail and a distinctive crest of feathers on its head.",
+    "habitat": "Forests and dense scrublands in Madagascar.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-fireback": {
+    "commonName": "Crested Fireback",
+    "description": "A large, colorful pheasant with a striking crest and vibrant plumage.",
+    "habitat": "Tropical forests and forest edges in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-kingfisher": {
+    "commonName": "Crested Kingfisher",
+    "description": "A large kingfisher with a striking crest and a bold pattern of black and white on its plumage.",
+    "habitat": "Rivers and streams in the Himalayas and parts of Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-nuthatch": {
+    "commonName": "Crested Nuthatch",
+    "description": "A small bird with a distinctive crest and a white belly, known for its tree-climbing habits.",
+    "habitat": "Forests and woodlands in the Himalayas and parts of Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-oropendola": {
+    "commonName": "Crested Oropendola",
+    "description": "A large, colorful bird with a distinctive crest and a long, hanging nest.",
+    "habitat": "Rainforests and forest edges in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-serpent-eagle": {
+    "commonName": "Crested Serpent Eagle",
+    "description": "A raptor with a distinctive crest and powerful talons, known for its hunting prowess.",
+    "habitat": "Forests and forest edges in Southeast Asia and parts of South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-shriketit": {
+    "commonName": "Crested Shriketit",
+    "description": "A small, colorful bird with a distinctive crest and a bold, contrasting plumage.",
+    "habitat": "Forests and forest edges in New Guinea and surrounding islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crested-wood-partridge": {
+    "commonName": "Crested Wood Partridge",
+    "description": "A small, elusive bird with a distinctive crest and a subtle, cryptic plumage.",
+    "habitat": "Dense forests and forest edges in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crimson-chat": {
+    "commonName": "Crimson Chat",
+    "description": "A brightly colored bird with a striking crimson plumage and a melodious song.",
+    "habitat": "Open grasslands and savannahs in Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crimson-sunbird": {
+    "commonName": "Crimson Sunbird",
+    "description": "A small, vibrant bird with striking crimson plumage and a long, slender bill.",
+    "habitat": "Forests and gardens in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "crow": {
+    "commonName": "Crow",
+    "description": "A highly intelligent bird known for its black plumage and adaptability to various environments.",
+    "habitat": "Widely distributed across various habitats including urban areas, forests, and grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cuban-tody": {
+    "commonName": "Cuban Tody",
+    "description": "A small, colorful bird with a bright green back and a red throat.",
+    "habitat": "Forests and dense vegetation in Cuba.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "cuban-trogon": {
+    "commonName": "Cuban Trogon",
+    "description": "A colorful bird with a bright red belly, green back, and distinctive white wing bars.",
+    "habitat": "Forests and wooded areas in Cuba.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "curl-crested-aracari": {
+    "commonName": "Curl-Crested Aracari",
+    "description": "A toucan with a striking curl of feathers on its head and bright plumage.",
+    "habitat": "Rainforests and tropical forests in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "d-arnaud-s-barbet": {
+    "commonName": "D'Arnaud's Barbet",
+    "description": "A small, colorful bird with a bright green body and a contrasting red face.",
+    "habitat": "Forest edges and open woodlands in East Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dalmatian-pelican": {
+    "commonName": "Dalmatian Pelican",
+    "description": "A large, white pelican with a distinctive long, curved bill and a thick neck.",
+    "habitat": "Lakes, rivers, and wetlands in Europe and Asia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "darjeeling-woodpecker": {
+    "commonName": "Darjeeling Woodpecker",
+    "description": "A medium-sized woodpecker with a distinctive black-and-white pattern and red underparts.",
+    "habitat": "Montane forests in the eastern Himalayas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dark-eyed-junco": {
+    "commonName": "Dark-Eyed Junco",
+    "description": "A small, sparrow-like bird with dark eyes and a slate-gray body.",
+    "habitat": "Forests, woodlands, and shrublands in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "daurian-redstart": {
+    "commonName": "Daurian Redstart",
+    "description": "A small passerine bird with a vibrant orange underbelly and a distinctive black and white head.",
+    "habitat": "Woodlands, scrublands, and open areas in East Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "demoiselle-crane": {
+    "commonName": "Demoiselle Crane",
+    "description": "A slender, graceful crane with a striking black-and-white plumage and long legs.",
+    "habitat": "Open grasslands and steppes in Central Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "double-barred-finch": {
+    "commonName": "Double-Barred Finch",
+    "description": "A small finch with distinctive black bars on its chest and a white belly.",
+    "habitat": "Woodlands and open areas in Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "double-breasted-cormorant": {
+    "commonName": "Double-Breasted Cormorant",
+    "description": "A large, dark waterbird with a distinctive double-breasted appearance during breeding season.",
+    "habitat": "Coastal and inland waters in Australia and nearby islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "double-eyed-fig-parrot": {
+    "commonName": "Double-Eyed Fig Parrot",
+    "description": "A small, vibrant parrot with striking green plumage and distinctive eye spots on the back of its head.",
+    "habitat": "Tropical and subtropical forests in New Guinea and nearby islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "downy-woodpecker": {
+    "commonName": "Downy Woodpecker",
+    "description": "A small woodpecker with a white underside, black wings, and a distinctive white spot on the back of its head.",
+    "habitat": "Deciduous and mixed forests across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dunlin": {
+    "commonName": "Dunlin",
+    "description": "A small wader with a curved bill and brown and white plumage that changes seasonally.",
+    "habitat": "Mudflats, estuaries, and coastal areas across Europe, Asia, and North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dusky-lory": {
+    "commonName": "Dusky Lory",
+    "description": "A medium-sized lory with a dark, dusky body and bright orange underparts.",
+    "habitat": "Rainforests and forest edges in New Guinea and nearby islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "dusky-robin": {
+    "commonName": "Dusky Robin",
+    "description": "A small robin with dark gray plumage and a white belly.",
+    "habitat": "Forests and shrublands in New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eared-pita": {
+    "commonName": "Eared Pita",
+    "description": "A brightly colored bird with prominent ear-like feathers and a vibrant plumage.",
+    "habitat": "Rainforests and dense undergrowth in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-bluebird": {
+    "commonName": "Eastern Bluebird",
+    "description": "A small bird with a bright blue back and a rusty orange chest.",
+    "habitat": "Open woodlands, farmlands, and open areas in Eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-bluebonnet": {
+    "commonName": "Eastern Bluebonnet",
+    "description": "A striking parrot with bright blue and green plumage and a distinctive head crest.",
+    "habitat": "Woodlands and forest edges in Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-golden-weaver": {
+    "commonName": "Eastern Golden Weaver",
+    "description": "A vibrant yellow and black weaver known for its intricate nest-building skills.",
+    "habitat": "Grasslands and open areas in East Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-meadowlark": {
+    "commonName": "Eastern Meadowlark",
+    "description": "A bright yellow and brown bird known for its melodious song and striking plumage.",
+    "habitat": "Grasslands, meadows, and open fields in Eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-rosella": {
+    "commonName": "Eastern Rosella",
+    "description": "A colorful parrot with a vibrant red, blue, and yellow plumage, often found in pairs.",
+    "habitat": "Woodlands, forests, and gardens in Eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-towhee": {
+    "commonName": "Eastern Towhee",
+    "description": "A striking bird with black upperparts, white belly, and reddish-brown sides, known for its distinctive call.",
+    "habitat": "Dense undergrowth, forests, and shrubby areas in Eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-wip-poor-will": {
+    "commonName": "Eastern Whip-poor-will",
+    "description": "A nocturnal bird with mottled brown plumage and a distinctive 'whip-poor-will' call.",
+    "habitat": "Deciduous forests and open woodlands in Eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eastern-yellow-robin": {
+    "commonName": "Eastern Yellow Robin",
+    "description": "A small robin with bright yellow underparts and a gray back, often seen in pairs.",
+    "habitat": "Woodlands and forest edges in Eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ecuadorian-hillstar": {
+    "commonName": "Ecuadorian Hillstar",
+    "description": "A hummingbird with iridescent green and blue feathers, found in high-altitude regions.",
+    "habitat": "High Andes of Ecuador, often in paramo and montane grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "egyptian-goose": {
+    "commonName": "Egyptian Goose",
+    "description": "A large, striking waterfowl with a distinctive brown and white plumage and a bright red bill.",
+    "habitat": "Wetlands, lakes, and rivers across Africa, and introduced in parts of Europe.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "elegant-trogon": {
+    "commonName": "Elegant Trogon",
+    "description": "A beautiful bird with vivid green and red plumage and a long tail, often seen in tropical forests.",
+    "habitat": "Tropical and subtropical forests in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "elliots-pheasant": {
+    "commonName": "Elliot's Pheasant",
+    "description": "A large pheasant with striking plumage, including a mix of colors such as gold, green, and blue.",
+    "habitat": "Forests and bamboo thickets in China and Northern Vietnam.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "emerald-tanager": {
+    "commonName": "Emerald Tanager",
+    "description": "A colorful bird with iridescent green and blue feathers, found in the cloud forests of the Andes.",
+    "habitat": "Montane forests in the Andes of Colombia and Ecuador.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "emperor-penguin": {
+    "commonName": "Emperor Penguin",
+    "description": "The largest of all penguin species, known for its impressive size and distinct black and white plumage.",
+    "habitat": "Antarctic ice and sea ice, where it breeds during the harsh winter.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "emu": {
+    "commonName": "Emu",
+    "description": "The second-largest living bird, native to Australia, with a distinctive long neck and legs.",
+    "habitat": "Open forests, savannas, and grasslands of Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "enggano-myna": {
+    "commonName": "Enggano Myna",
+    "description": "A critically endangered myna species endemic to Enggano Island, Indonesia, with striking black and white plumage.",
+    "habitat": "Forests and forest edges on Enggano Island.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eurasian-bullfinch": {
+    "commonName": "Eurasian Bullfinch",
+    "description": "A small passerine bird with a distinctive black cap and bright red underparts.",
+    "habitat": "Woodlands, gardens, and scrublands across Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eurasian-golden-oriole": {
+    "commonName": "Eurasian Golden Oriole",
+    "description": "A vibrant yellow and black bird known for its melodious song and striking appearance.",
+    "habitat": "Deciduous and mixed forests across Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "eurasian-magpie": {
+    "commonName": "Eurasian Magpie",
+    "description": "A large, intelligent bird with black and white plumage and a distinctive long tail.",
+    "habitat": "Woodlands, farmlands, and urban areas across Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "european-goldfinch": {
+    "commonName": "European Goldfinch",
+    "description": "A small finch with a bright red face, yellow wing patches, and a cheerful song.",
+    "habitat": "Woodland edges, gardens, and urban areas across Europe.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "european-turtle-dove": {
+    "commonName": "European Turtle Dove",
+    "description": "A migratory dove with a distinctive soft purring call and warm brown plumage.",
+    "habitat": "Woodlands, agricultural areas, and gardens across Europe and parts of Asia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "evening-grosbeak": {
+    "commonName": "Evening Grosbeak",
+    "description": "A robust finch with a large bill and striking yellow, black, and white plumage.",
+    "habitat": "Forests and wooded areas in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fairy-bluebird": {
+    "commonName": "Fairy Bluebird",
+    "description": "A small, vibrant blue and black bird known for its dazzling appearance.",
+    "habitat": "Forests and forest edges in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fairy-penguin": {
+    "commonName": "Fairy Penguin",
+    "description": "The smallest penguin species, also known as the Little Penguin, with a distinctive blue-grey plumage.",
+    "habitat": "Coastal regions of Australia and New Zealand.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fairy-tern": {
+    "commonName": "Fairy Tern",
+    "description": "A small tern with a delicate appearance and a white body with black wing tips.",
+    "habitat": "Coastal and island areas in the Indian and Pacific Oceans.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fan-tailed-widow": {
+    "commonName": "Fan-tailed Widowbird",
+    "description": "A striking bird with a long, fan-shaped tail and bright black and yellow plumage.",
+    "habitat": "Grasslands and open savannas in sub-Saharan Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fasciated-wren": {
+    "commonName": "Fasciated Wren",
+    "description": "A small, brown wren with a distinctive striped pattern and a lively song.",
+    "habitat": "Dense undergrowth and forest edges in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fiery-minivet": {
+    "commonName": "Fiery Minivet",
+    "description": "A vibrant bird with bright orange and black plumage, known for its striking appearance.",
+    "habitat": "Forests and forest edges in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fiordland-penguin": {
+    "commonName": "Fiordland Penguin",
+    "description": "A medium-sized penguin with a distinctive yellow crest and dark plumage.",
+    "habitat": "Coastal forests and fjords of New Zealand.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "fire-tailed-myzornis": {
+    "commonName": "Fire-tailed Myzornis",
+    "description": "A small, brightly colored bird with a striking red tail and green body.",
+    "habitat": "Forests and high-altitude areas in the Eastern Himalayas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "flame-bowerbird": {
+    "commonName": "Flame Bowerbird",
+    "description": "A stunning bird with bright red and orange plumage and an elaborate courtship display.",
+    "habitat": "Lowland and foothill forests of New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "flame-tanager": {
+    "commonName": "Flame Tanager",
+    "description": "A small, brightly colored bird with striking flame-red plumage.",
+    "habitat": "Lowland and foothill forests in South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "forest-wagtail": {
+    "commonName": "Forest Wagtail",
+    "description": "A small, agile bird with a distinctive tail movement and subtle coloration.",
+    "habitat": "Forests and forest edges in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "frigate": {
+    "commonName": "Frigatebird",
+    "description": "A large seabird with long wings and a distinctive forked tail, known for its soaring flight.",
+    "habitat": "Tropical and subtropical oceans and islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "frill-back-pigeon": {
+    "commonName": "Frill-backed Pigeon",
+    "description": "A pigeon with a unique frilled feather pattern on its back.",
+    "habitat": "Forests and forest edges in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gambels-quail": {
+    "commonName": "Gambel's Quail",
+    "description": "A small, plump quail with a distinctive topknot and intricate plumage.",
+    "habitat": "Desert and semi-arid regions of the southwestern United States and northern Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gang-gang-cockatoo": {
+    "commonName": "Gang-gang Cockatoo",
+    "description": "A striking cockatoo with a distinctive red crest and grey body.",
+    "habitat": "Woodlands and forests in southeastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gila-woodpecker": {
+    "commonName": "Gila Woodpecker",
+    "description": "A medium-sized woodpecker with a distinctive striped head and barred back.",
+    "habitat": "Desert and scrubland areas in the southwestern United States and northern Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gilded-flicker": {
+    "commonName": "Gilded Flicker",
+    "description": "A large woodpecker with striking golden-yellow underparts and a distinctive call.",
+    "habitat": "Desert and scrubland areas in the southwestern United States and Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "glossy-ibis": {
+    "commonName": "Glossy Ibis",
+    "description": "A medium-sized wader with iridescent plumage that appears glossy in the sunlight.",
+    "habitat": "Wetlands, marshes, and estuaries in temperate and tropical regions worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "go-away-bird": {
+    "commonName": "Go-Away Bird",
+    "description": "A bird with a distinctive call that sounds like 'go away,' known for its striking black and white plumage.",
+    "habitat": "Woodlands and savannahs in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gold-wing-warbler": {
+    "commonName": "Gold-wing Warbler",
+    "description": "A small, brightly colored warbler with distinctive golden wings and a melodious song.",
+    "habitat": "Forest edges and secondary growth in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-bower-bird": {
+    "commonName": "Golden Bowerbird",
+    "description": "A striking bird with brilliant golden plumage and a unique courtship display involving the construction of elaborate bowers.",
+    "habitat": "Rainforests in New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-cheeked-warbler": {
+    "commonName": "Golden-Cheeked Warbler",
+    "description": "A small warbler with a vibrant yellow face and black and white body.",
+    "habitat": "Deciduous forests in central Texas, USA.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-chlorophonia": {
+    "commonName": "Golden Chlorophonia",
+    "description": "A small, brightly colored songbird with golden-yellow and green plumage.",
+    "habitat": "Cloud forests and high-altitude woodlands in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-eagle": {
+    "commonName": "Golden Eagle",
+    "description": "A large bird of prey with dark brown plumage and a golden sheen on its nape.",
+    "habitat": "Mountainous and hilly regions across North America, Europe, and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-parakeet": {
+    "commonName": "Golden Parakeet",
+    "description": "A vibrant green parakeet with striking golden-yellow underparts and a lively disposition.",
+    "habitat": "Tropical rainforests in northern South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-pheasant": {
+    "commonName": "Golden Pheasant",
+    "description": "A pheasant with a stunning golden-yellow and red plumage, known for its elaborate courtship display.",
+    "habitat": "Forests and bamboo thickets in China.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "golden-pipit": {
+    "commonName": "Golden Pipit",
+    "description": "A small, vibrant pipit with bright yellow underparts and a distinctive call.",
+    "habitat": "Grasslands and open woodlands in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gouldian-finch": {
+    "commonName": "Gouldian Finch",
+    "description": "A colorful finch with a striking plumage of green, red, yellow, and blue.",
+    "habitat": "Woodlands and savannahs in northern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "grandala": {
+    "commonName": "Grandala",
+    "description": "A beautiful bird with a bright blue body and a contrasting black head.",
+    "habitat": "High-altitude forests and meadows in the Himalayas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gray-catbird": {
+    "commonName": "Gray Catbird",
+    "description": "A medium-sized songbird with a gray body and a distinctive 'mewing' call.",
+    "habitat": "Deciduous forests and shrublands in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gray-kingbird": {
+    "commonName": "Gray Kingbird",
+    "description": "A large, gray flycatcher with a distinctive black mask and a bright yellow belly.",
+    "habitat": "Coastal areas and mangroves in the Caribbean and Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gray-partridge": {
+    "commonName": "Gray Partridge",
+    "description": "A small, plump game bird with a gray-brown body and distinctive markings.",
+    "habitat": "Farmlands, grasslands, and open woodlands in Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gray-wagtail": {
+    "commonName": "Gray Wagtail",
+    "description": "A slender, gray bird with a long tail that bobs up and down.",
+    "habitat": "Mountain streams and riverbanks in Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-argus": {
+    "commonName": "Great Argus",
+    "description": "A large pheasant with striking iridescent feathers and elaborate courtship displays.",
+    "habitat": "Tropical rainforests in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-gray-owl": {
+    "commonName": "Great Gray Owl",
+    "description": "A large owl with a distinctive round face and gray plumage, known for its silent flight.",
+    "habitat": "Dense forests and woodlands in North America and Eurasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-jacamar": {
+    "commonName": "Great Jacamar",
+    "description": "A striking bird with iridescent green and blue plumage and a long, straight bill.",
+    "habitat": "Tropical rainforests in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-kiskadee": {
+    "commonName": "Great Kiskadee",
+    "description": "A large, strikingly colored flycatcher with a bright yellow belly and a bold black mask.",
+    "habitat": "Open woodlands, savannas, and urban areas in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-potoo": {
+    "commonName": "Great Potoo",
+    "description": "A large, nocturnal bird with excellent camouflage that resembles a dead branch or stump.",
+    "habitat": "Tropical forests in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-tinamou": {
+    "commonName": "Great Tinamou",
+    "description": "A large, ground-dwelling bird with a brownish body and subtle markings.",
+    "habitat": "Tropical forests and woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "great-xenops": {
+    "commonName": "Great Xenops",
+    "description": "A small, woodpecker-like bird with a distinctive curved bill and brown streaked plumage.",
+    "habitat": "Tropical rainforests in South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "greater-pewee": {
+    "commonName": "Greater Pewee",
+    "description": "A medium-sized flycatcher with a brownish-gray body and a prominent crest.",
+    "habitat": "Woodlands and open forests in the southwestern United States and Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "greater-prairie-chicken": {
+    "commonName": "Greater Prairie-Chicken",
+    "description": "A large grouse with distinctive orange air sacs and elaborate courtship displays.",
+    "habitat": "Prairies and grasslands in central North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "greater-sage-grouse": {
+    "commonName": "Greater Sage-Grouse",
+    "description": "A large grouse known for its elaborate mating dance and striking plumage.",
+    "habitat": "Sagebrush habitats in the western United States.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "green-broadbill": {
+    "commonName": "Green Broadbill",
+    "description": "A brightly colored bird with green plumage and a broad bill.",
+    "habitat": "Tropical rainforests in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "green-jay": {
+    "commonName": "Green Jay",
+    "description": "A vibrant jay with green plumage, a blue head, and a striking black mask.",
+    "habitat": "Woodlands and brushy areas in southern Texas and northern Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "green-magpie": {
+    "commonName": "Green Magpie",
+    "description": "A striking bird with bright green plumage and a contrasting black head.",
+    "habitat": "Forests in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "green-winged-dove": {
+    "commonName": "Green-Winged Dove",
+    "description": "A dove with a greenish body and distinctive green wing patches.",
+    "habitat": "Tropical forests and woodlands in South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "grey-cuckooshrike": {
+    "commonName": "Grey Cuckooshrike",
+    "description": "A medium-sized bird with a gray body and a slightly curved bill.",
+    "habitat": "Forests and woodlands in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "grey-headed-chachalaca": {
+    "commonName": "Grey-Headed Chachalaca",
+    "description": "A large, mostly green bird with a distinctive grey head and long tail.",
+    "habitat": "Tropical forests and woodlands in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "grey-headed-fish-eagle": {
+    "commonName": "Grey-Headed Fish Eagle",
+    "description": "A large raptor with a grey head and white underparts, known for its hunting skills.",
+    "habitat": "Lakes and rivers in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "grey-plover": {
+    "commonName": "Grey Plover",
+    "description": "A medium-sized shorebird with a mottled grey and black plumage in breeding season.",
+    "habitat": "Coastal mudflats and beaches around the world.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "grove-billed-ani": {
+    "commonName": "Grove-Billed Ani",
+    "description": "A black bird with a distinctive grooved bill and a long tail.",
+    "habitat": "Tropical forests and woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "guinea-turaco": {
+    "commonName": "Guinea Turaco",
+    "description": "A brightly colored bird with green and red plumage and a distinctive crest.",
+    "habitat": "Forests and woodlands in West Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "guineafowl": {
+    "commonName": "Guineafowl",
+    "description": "A distinctive bird with a helmet-like crest and speckled grey plumage.",
+    "habitat": "Savannas and open woodlands in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gurneys-pitta": {
+    "commonName": "Gurney's Pitta",
+    "description": "A colorful bird with a striking blue and green plumage.",
+    "habitat": "Tropical forests in Thailand and Malaysia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "gyrfalcon": {
+    "commonName": "Gyrfalcon",
+    "description": "The largest of the falcon species, with a variable plumage ranging from white to dark brown.",
+    "habitat": "Arctic regions and subarctic areas.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hamerkop": {
+    "commonName": "Hammerkop",
+    "description": "A medium-sized bird with a distinctive hammer-shaped head and long legs.",
+    "habitat": "Wetlands and riverbanks in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "harlequin-duck": {
+    "commonName": "Harlequin Duck",
+    "description": "A sea duck with a distinctive and colorful plumage, especially in males.",
+    "habitat": "Fast-moving streams and coastal waters in North America and Eurasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "harlequin-quail": {
+    "commonName": "Harlequin Quail",
+    "description": "A small, colorful quail with striking patterns and a distinctive call.",
+    "habitat": "Grasslands and open woodlands in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "harpy-eagle": {
+    "commonName": "Harpy Eagle",
+    "description": "One of the largest and most powerful eagles, with striking black and white plumage.",
+    "habitat": "Tropical rainforests in Central and South America.",
+    "isEndangered": true,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hawaiian-goose": {
+    "commonName": "Hawaiian Goose",
+    "description": "Also known as the Nene, this is a large, flightless waterfowl endemic to Hawaii.",
+    "habitat": "Hawaiian upland grasslands and forests.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hawfinch": {
+    "commonName": "Hawfinch",
+    "description": "A large, robust finch with a powerful beak, known for its distinctive call.",
+    "habitat": "Deciduous and mixed forests in Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "helmet-vanga": {
+    "commonName": "Helmet Vanga",
+    "description": "A striking bird with a large, helmet-like crest and vibrant plumage.",
+    "habitat": "Forests and woodlands in Madagascar.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hepatic-tanager": {
+    "commonName": "Hepatic Tanager",
+    "description": "A colorful bird with a reddish-brown body and contrasting dark wings.",
+    "habitat": "Woodlands and scrub in the southwestern United States and Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "himalayan-bluetail": {
+    "commonName": "Himalayan Bluetail",
+    "description": "A small, colorful robin with a blue tail and bright orange underparts.",
+    "habitat": "High-altitude forests and shrublands in the Himalayas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "himalayan-monal": {
+    "commonName": "Himalayan Monal",
+    "description": "A stunning pheasant with iridescent plumage and a distinctive crest.",
+    "habitat": "Mountain forests and alpine meadows in the Himalayas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hoatzin": {
+    "commonName": "Hoatzin",
+    "description": "A unique bird with a distinctive odor and a set of claws on its wings during its juvenile stage.",
+    "habitat": "Swampy forests and riverbanks in the Amazon Basin.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hooded-merganser": {
+    "commonName": "Hooded Merganser",
+    "description": "A small duck with a dramatic, fan-shaped crest and striking black-and-white plumage.",
+    "habitat": "Freshwater lakes, rivers, and ponds in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hoopoe": {
+    "commonName": "Hoopoe",
+    "description": "A distinctive bird with a unique crest and a striking black-and-white striped pattern.",
+    "habitat": "Woodlands, open forests, and savannas across Europe, Africa, and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "horned-guan": {
+    "commonName": "Horned Guan",
+    "description": "A large, striking bird with a distinctive horn-like casque on its head.",
+    "habitat": "Mountain forests in Central America.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "horned-lark": {
+    "commonName": "Horned Lark",
+    "description": "A small, ground-dwelling bird with a distinctive horn-like tuft on its head.",
+    "habitat": "Open fields and grasslands across North America, Eurasia, and the Middle East.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "horned-sungem": {
+    "commonName": "Horned Sungem",
+    "description": "A small hummingbird with striking, iridescent plumage and a unique horn-like crest.",
+    "habitat": "Forest edges and clearings in the Amazon Basin.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "house-crow": {
+    "commonName": "House Crow",
+    "description": "A highly adaptable and intelligent crow with a distinctive black and grey plumage.",
+    "habitat": "Urban areas and coastal regions across South Asia and parts of Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "house-finch": {
+    "commonName": "House Finch",
+    "description": "A small, adaptable finch with a varied plumage and a cheerful song.",
+    "habitat": "Urban and suburban areas across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "house-sparrow": {
+    "commonName": "House Sparrow",
+    "description": "A small, adaptable bird found in urban and suburban areas, known for its social behavior.",
+    "habitat": "Cities, towns, and rural areas worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "hyacinth-macaw": {
+    "commonName": "Hyacinth Macaw",
+    "description": "The largest macaw species, recognized by its vibrant blue feathers and large yellow eye patches.",
+    "habitat": "Tropical rainforests and palm swamps in Brazil and Bolivia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "iberian-magpie": {
+    "commonName": "Iberian Magpie",
+    "description": "A bird native to the Iberian Peninsula with a distinctive black-and-white plumage and a blue tail.",
+    "habitat": "Forests, woodlands, and scrublands in Spain and Portugal.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ibisbill": {
+    "commonName": "Ibisbill",
+    "description": "A wader bird with a unique long, curved bill and distinctive black and white plumage.",
+    "habitat": "Mountain rivers and streambeds in the Himalayas and Central Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "imperial-shaq": {
+    "commonName": "Imperial Shaq",
+    "description": "A bird known for its striking appearance and elusive nature, found in the dense forests of the Amazon.",
+    "habitat": "Lowland forests in the Amazon Basin.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "inca-tern": {
+    "commonName": "Inca Tern",
+    "description": "A seabird with a striking black body, white wing tips, and bright red beak and legs.",
+    "habitat": "Coastal cliffs and islands along the Pacific coast of Peru and northern Chile.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indian-bustard": {
+    "commonName": "Indian Bustard",
+    "description": "A large, ground-dwelling bird with a long neck and legs, known for its impressive courtship display.",
+    "habitat": "Dry grasslands and semi-arid regions in India and Pakistan.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indian-grey-hornbill": {
+    "commonName": "Indian Grey Hornbill",
+    "description": "A medium-sized hornbill with a distinctive grey body and a prominent, curved casque on its bill.",
+    "habitat": "Forests, woodlands, and urban areas in India and Sri Lanka.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indian-peacock": {
+    "commonName": "Indian Peacock",
+    "description": "The most well-known peacock species, famous for its iridescent plumage and elaborate courtship display.",
+    "habitat": "Forests, grasslands, and open woodlands in India and Sri Lanka.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indian-pitta": {
+    "commonName": "Indian Pitta",
+    "description": "A brightly colored bird with a mix of vibrant plumage, known for its striking appearance and melodious call.",
+    "habitat": "Forests and woodlands in the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indian-roller": {
+    "commonName": "Indian Roller",
+    "description": "A colorful bird with bright blue and green plumage and a distinctive rolling flight display.",
+    "habitat": "Open forests, grasslands, and urban areas in India and surrounding regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indian-vulture": {
+    "commonName": "Indian Vulture",
+    "description": "A large vulture species with a distinctive bald head and strong beak, primarily feeding on carrion.",
+    "habitat": "Grasslands, open forests, and scrublands in India.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indigo-bunting": {
+    "commonName": "Indigo Bunting",
+    "description": "A small, vibrant blue bird found in North America, known for its striking plumage.",
+    "habitat": "Deciduous forests, edges, and open areas in eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "indigo-flycatcher": {
+    "commonName": "Indigo Flycatcher",
+    "description": "A small, brightly colored flycatcher with an indigo-blue body and contrasting white belly.",
+    "habitat": "Forests and wooded areas in Southeast Asia, including the Himalayas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "inland-dotterel": {
+    "commonName": "Inland Dotterel",
+    "description": "A plump, ground-dwelling bird with a distinctive chestnut belly and pale brown upperparts.",
+    "habitat": "Arid and semi-arid regions in Australia, particularly inland plains and deserts.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ivory-billed-aracari": {
+    "commonName": "Ivory-billed Aracari",
+    "description": "A small toucan with striking black, white, and orange plumage, and a distinctive ivory-colored bill.",
+    "habitat": "Tropical rainforests in Central America, from southern Mexico to western Panama.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ivory-gull": {
+    "commonName": "Ivory Gull",
+    "description": "A rare, all-white seabird that nests on ice floes and feeds on fish and carrion.",
+    "habitat": "Arctic regions, especially around sea ice and ice floes.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "iwi": {
+    "commonName": "Iwi",
+    "description": "A brightly colored Hawaiian honeycreeper with red plumage and a distinctive curved bill.",
+    "habitat": "Forest areas in Hawaii, particularly high-elevation rainforests.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "jabiru": {
+    "commonName": "Jabiru",
+    "description": "A large stork with a striking black head and white body, known for its impressive wingspan.",
+    "habitat": "Wetlands, marshes, and rivers in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "jack-snipe": {
+    "commonName": "Jack Snipe",
+    "description": "A small wader with cryptic plumage, known for its erratic flight patterns and secretive behavior.",
+    "habitat": "Marshes, bogs, and wet grasslands in Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "jacobin-pigeon": {
+    "commonName": "Jacobin Pigeon",
+    "description": "A pigeon with a distinctive feathered collar around its neck, giving it a unique appearance.",
+    "habitat": "Woodlands and open areas in parts of Africa and South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "jandaya-parakeet": {
+    "commonName": "Jandaya Parakeet",
+    "description": "A colorful parakeet with a bright yellow and green plumage, native to northeastern Brazil.",
+    "habitat": "Tropical and subtropical forests and woodlands in Brazil.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "japanese-robin": {
+    "commonName": "Japanese Robin",
+    "description": "A small robin with a vibrant orange belly and a melodious song, native to Japan.",
+    "habitat": "Forests, gardens, and parks in Japan.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "java-sparrow": {
+    "commonName": "Java Sparrow",
+    "description": "A small, robust sparrow with distinctive pinkish-gray plumage and a black face mask.",
+    "habitat": "Grasslands, agricultural areas, and urban environments in Indonesia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "jocotoco-antpitta": {
+    "commonName": "Jocotoco Antpitta",
+    "description": "A rare and elusive bird with a distinctive brown and white plumage, found in the Andes.",
+    "habitat": "Cloud forests in the Andes of Ecuador.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "jungle-babbler": {
+    "commonName": "Jungle Babbler",
+    "description": "A social and vocal bird with a distinctive grey-brown plumage, found in South Asia.",
+    "habitat": "Dense forests and scrublands in India and surrounding regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "kagu": {
+    "commonName": "Kagu",
+    "description": "A unique flightless bird with a distinctive gray plumage and a crest, endemic to New Caledonia.",
+    "habitat": "Forests and dense undergrowth in New Caledonia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "kakapo": {
+    "commonName": "Kakapo",
+    "description": "A large, nocturnal, flightless parrot with green and yellow plumage, native to New Zealand.",
+    "habitat": "Forests in New Zealand.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "killdear": {
+    "commonName": "Killdeer",
+    "description": "A wading bird with distinctive black and white striped chest and a loud, high-pitched call.",
+    "habitat": "Open fields, shores, and riverbanks in North and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "king-eider": {
+    "commonName": "King Eider",
+    "description": "A large sea duck with striking plumage, including a colorful bill and a distinctive head shape.",
+    "habitat": "Arctic and sub-Arctic coasts, particularly during the breeding season.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "king-vulture": {
+    "commonName": "King Vulture",
+    "description": "A large vulture with striking multicolored plumage and a large, hooked bill, known for its scavenging habits.",
+    "habitat": "Tropical forests and woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "kiwi": {
+    "commonName": "Kiwi",
+    "description": "A flightless bird with a long, slender bill and a brown, shaggy plumage, native to New Zealand.",
+    "habitat": "Forests, grasslands, and scrublands in New Zealand.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "knob-billed-duck": {
+    "commonName": "Knob-billed Duck",
+    "description": "A striking duck with a prominent knob on the bill and dark plumage, found in tropical regions.",
+    "habitat": "Wetlands, swamps, and lakes in Africa and parts of Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "kookaburra": {
+    "commonName": "Kookaburra",
+    "description": "A large, laughing bird with a distinctive call that resembles human laughter, native to Australia.",
+    "habitat": "Woodlands, open forests, and suburban areas in Australia and New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lark-bunting": {
+    "commonName": "Lark Bunting",
+    "description": "A small, plump bird with striking black and white plumage, known for its melodious song.",
+    "habitat": "Grasslands and open areas in the central United States.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "laughing-gull": {
+    "commonName": "Laughing Gull",
+    "description": "A medium-sized gull with a distinctive black head during breeding season and a loud, raucous call.",
+    "habitat": "Coastal regions, estuaries, and lagoons in North and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lazuli-bunting": {
+    "commonName": "Lazuli Bunting",
+    "description": "A small, colorful bird with vibrant blue plumage and a contrasting chestnut belly.",
+    "habitat": "Open woodlands, brushy areas, and gardens in western North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lesser-adjutant": {
+    "commonName": "Lesser Adjutant",
+    "description": "A large, slender stork with a distinctive black and white plumage and a long, bare neck.",
+    "habitat": "Wetlands and forested areas in Southeast Asia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lilac-roller": {
+    "commonName": "Lilac Roller",
+    "description": "A brightly colored roller with lilac and turquoise plumage, known for its acrobatic flight displays.",
+    "habitat": "Woodlands and savannas in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "limpkin": {
+    "commonName": "Limpkin",
+    "description": "A large wader with a long, curved bill and brown, mottled plumage, known for its haunting call.",
+    "habitat": "Wetlands, swamps, and marshes in the southeastern United States, Central America, and northern South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "little-auk": {
+    "commonName": "Little Auk",
+    "description": "A small seabird with a black and white plumage and a distinctive, short, stubby bill.",
+    "habitat": "Arctic seas and coastal areas during the breeding season.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "loggerhead-shrike": {
+    "commonName": "Loggerhead Shrike",
+    "description": "A small, predatory bird with a distinctive hooked bill and a black mask around its eyes.",
+    "habitat": "Open country, including grasslands and scrublands in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "long-eared-owl": {
+    "commonName": "Long-Eared Owl",
+    "description": "A medium-sized owl with long, prominent ear tufts and a distinctive, pale facial disc.",
+    "habitat": "Woodlands, forests, and dense shrubby areas across Eurasia and North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "looney-birds": {
+    "commonName": "Looney Birds",
+    "description": "This term is not typically used to refer to a specific species; it may colloquially refer to birds with unusual or entertaining behaviors.",
+    "habitat": "Varies widely depending on the specific species referred to.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "lucifer-hummingbird": {
+    "commonName": "Lucifer Hummingbird",
+    "description": "A small hummingbird with iridescent plumage and a strikingly long, forked tail.",
+    "habitat": "Arid and semi-arid regions of Mexico and the southwestern United States.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "magpie-goose": {
+    "commonName": "Magpie Goose",
+    "description": "A large, black-and-white goose with a distinctive red face and orange legs, known for its unique vocalizations.",
+    "habitat": "Wetlands, swamps, and floodplains in northern Australia and New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "malabar-hornbill": {
+    "commonName": "Malabar Hornbill",
+    "description": "A large hornbill with striking black and white plumage and a prominent, curved casque on its bill.",
+    "habitat": "Tropical forests in the Western Ghats of India.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "malachite-kingfisher": {
+    "commonName": "Malachite Kingfisher",
+    "description": "A small, brightly colored kingfisher with a vibrant green back and orange underparts.",
+    "habitat": "Streams, rivers, and ponds in sub-Saharan Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "malagasy-white-eye": {
+    "commonName": "Malagasy White-Eye",
+    "description": "A small passerine with a distinctive white ring around its eye and greenish-yellow plumage.",
+    "habitat": "Forests and woodland areas in Madagascar.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "maleo": {
+    "commonName": "Maleo",
+    "description": "A large, flightless bird with distinctive black and white plumage, known for its unique nesting behavior.",
+    "habitat": "Forests and lowland areas of Sulawesi, Indonesia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mallard-duck": {
+    "commonName": "Mallard Duck",
+    "description": "A common and widespread duck with a distinctive iridescent green head in males and brown-speckled plumage in females.",
+    "habitat": "A wide range of wetlands, including ponds, lakes, and rivers across the Northern Hemisphere.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mandarin-duck": {
+    "commonName": "Mandarin Duck",
+    "description": "A colorful duck with striking plumage including orange sails on its back and intricate patterns.",
+    "habitat": "Woodland ponds, marshes, and slow-moving rivers in East Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mangrove-cuckoo": {
+    "commonName": "Mangrove Cuckoo",
+    "description": "A secretive bird with cryptic plumage, adapted for life in mangrove swamps.",
+    "habitat": "Mangrove forests and coastal swamps in the Americas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "marabou-stork": {
+    "commonName": "Marabou Stork",
+    "description": "A large stork with a distinctive bare head and neck, and a large, pendulous throat sac.",
+    "habitat": "Savannahs, wetlands, and garbage dumps in sub-Saharan Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "masked-bobwhite": {
+    "commonName": "Masked Bobwhite",
+    "description": "A quail with striking black and white head markings and a distinctive call.",
+    "habitat": "Grasslands and arid regions of northern Mexico and southern United States.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "masked-booby": {
+    "commonName": "Masked Booby",
+    "description": "A seabird with a distinctive black mask around its eyes and a bright white body.",
+    "habitat": "Tropical and subtropical oceans, nesting on remote islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "masked-lapwing": {
+    "commonName": "Masked Lapwing",
+    "description": "A wader bird with striking black and white plumage and a distinctive facial mask.",
+    "habitat": "Open grasslands, wetlands, and savannahs in Australia and New Guinea.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mckays-bunting": {
+    "commonName": "McKay's Bunting",
+    "description": "A rare and critically endangered bunting with all-white plumage, endemic to Alaska.",
+    "habitat": "Arctic tundra in Alaska.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "merlin": {
+    "commonName": "Merlin",
+    "description": "A small, agile falcon with a powerful beak and sharp talons, known for its hunting skills.",
+    "habitat": "Open country, woodlands, and urban areas across the Northern Hemisphere.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mikado-pheasant": {
+    "commonName": "Mikado Pheasant",
+    "description": "A large, striking pheasant with vivid plumage, including a deep blue body and a prominent crest.",
+    "habitat": "Mountainous forests in central Japan.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "military-macaw": {
+    "commonName": "Military Macaw",
+    "description": "A large, green macaw with red forehead and blue and yellow tail feathers, known for its strong beak and vocalizations.",
+    "habitat": "Tropical forests and semi-arid regions in Mexico and Central America.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "mourning-dove": {
+    "commonName": "Mourning Dove",
+    "description": "A slender, graceful dove with a soft gray-brown body and distinctive mournful cooing call.",
+    "habitat": "Open woodlands, grasslands, and urban areas across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "myna": {
+    "commonName": "Myna",
+    "description": "A medium-sized bird with a distinctive yellow patch on its wings and a melodious song.",
+    "habitat": "Urban areas, open woodlands, and savannahs in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "nicobar-pigeon": {
+    "commonName": "Nicobar Pigeon",
+    "description": "A large pigeon with metallic green and blue feathers and a distinctive white underbelly.",
+    "habitat": "Tropical forests on the Nicobar Islands and nearby areas in Southeast Asia.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "noisy-friarbird": {
+    "commonName": "Noisy Friarbird",
+    "description": "A medium-sized bird with a distinctive bare face and noisy calls, found in eastern Australia.",
+    "habitat": "Woodlands, forests, and gardens in eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-beardless-tyrannulet": {
+    "commonName": "Northern Beardless-Tyrannulet",
+    "description": "A small, olive-green flycatcher with a distinctive beardless face and subtle call.",
+    "habitat": "Tropical and subtropical forests from southern Mexico to western Panama.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-cardinal": {
+    "commonName": "Northern Cardinal",
+    "description": "A striking bird with a bright red body and a distinctive black mask around its face.",
+    "habitat": "Woodlands, gardens, and shrublands in eastern and central North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-flicker": {
+    "commonName": "Northern Flicker",
+    "description": "A large woodpecker with a distinctive spotted belly and a bright red nape.",
+    "habitat": "Woodlands, open forests, and urban areas across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-fulmar": {
+    "commonName": "Northern Fulmar",
+    "description": "A seabird with a tube-like nostril and a gray and white body, known for its strong flight and oceanic lifestyle.",
+    "habitat": "Northern oceans and coasts, breeding on rocky cliffs in the Arctic and sub-Arctic regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-gannet": {
+    "commonName": "Northern Gannet",
+    "description": "A large seabird with striking white plumage, black wingtips, and a distinctive yellowish head.",
+    "habitat": "Cliffs and coastal waters of the North Atlantic, from Canada to Europe.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-goshawk": {
+    "commonName": "Northern Goshawk",
+    "description": "A powerful raptor with a distinctive slate-gray back and white underparts, known for its hunting prowess.",
+    "habitat": "Dense forests and woodlands across North America, Europe, and Asia.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-jacana": {
+    "commonName": "Northern Jacana",
+    "description": "A wader with long legs and toes, characterized by its colorful plumage and distinctive long toes that allow it to walk on floating vegetation.",
+    "habitat": "Wetlands, marshes, and shallow lagoons in Central America and northern South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-lapwing": {
+    "commonName": "Northern Lapwing",
+    "description": "A striking bird with a black and white body, a distinctive crest, and greenish back feathers.",
+    "habitat": "Open country, including fields and wetlands across Europe and northern Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-mockingbird": {
+    "commonName": "Northern Mockingbird",
+    "description": "A medium-sized songbird known for its ability to mimic a variety of sounds and its grayish plumage.",
+    "habitat": "Urban areas, open woods, and scrublands across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-parula": {
+    "commonName": "Northern Parula",
+    "description": "A small warbler with a bright blue-gray upperpart, yellow belly, and distinctive greenish back.",
+    "habitat": "Deciduous forests and wooded swamps in eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-red-bishop": {
+    "commonName": "Northern Red Bishop",
+    "description": "A small, brightly colored finch with a vivid red body and black wings and beak.",
+    "habitat": "Grasslands and savannahs in Africa, especially in areas with tall grasses and reeds.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "northern-shoveler": {
+    "commonName": "Northern Shoveler",
+    "description": "A distinctive duck with a large spatula-shaped bill and striking green head, chestnut sides, and white underparts.",
+    "habitat": "Wetlands, marshes, and shallow ponds across North America and Eurasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ocellated-turkey": {
+    "commonName": "Ocellated Turkey",
+    "description": "A colorful turkey with iridescent plumage and eye-like spots on its tail feathers, native to the Yucatán Peninsula.",
+    "habitat": "Tropical and subtropical forests of the Yucatán Peninsula in Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "oilbird": {
+    "commonName": "Oilbird",
+    "description": "A nocturnal bird with a large, oil-rich diet that gives its name, known for its unique echolocation abilities.",
+    "habitat": "Caves and dark, forested areas in northern South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "okinawa-rail": {
+    "commonName": "Okinawa Rail",
+    "description": "A flightless, elusive bird native to the Okinawa Islands, with a distinctive black and white pattern.",
+    "habitat": "Dense forests and bamboo groves on the Okinawa Islands in Japan.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "orange-breasted-trogon": {
+    "commonName": "Orange-breasted Trogon",
+    "description": "A vibrant bird with striking orange underparts and a contrasting green back.",
+    "habitat": "Tropical forests in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "orange-breasted-bunting": {
+    "commonName": "Orange-breasted Bunting",
+    "description": "A small, colorful bunting with bright orange and blue plumage.",
+    "habitat": "Woodlands and scrublands in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "oriental-bay-owl": {
+    "commonName": "Oriental Bay Owl",
+    "description": "A medium-sized owl with distinctive heart-shaped facial discs and a pale brown body.",
+    "habitat": "Forests and wooded areas in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ornate-hawk-eagle": {
+    "commonName": "Ornate Hawk-Eagle",
+    "description": "A striking raptor with a bold pattern of black and white feathers and a distinctive crest.",
+    "habitat": "Forests and woodlands in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "osprey": {
+    "commonName": "Osprey",
+    "description": "A large raptor with a distinctive white head and dark eyes, known for its fishing skills.",
+    "habitat": "Near large bodies of open water, including lakes and coastal areas worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ostrich": {
+    "commonName": "Ostrich",
+    "description": "The world's largest bird, known for its long legs and neck, and inability to fly.",
+    "habitat": "Open savannas and woodlands in Africa.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ovenbird": {
+    "commonName": "Ovenbird",
+    "description": "A small songbird named for its unique nest, shaped like an oven with a domed roof.",
+    "habitat": "Forests and woodlands in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "oyster-catcher": {
+    "commonName": "Oystercatcher",
+    "description": "A striking shorebird with bright orange legs and bill, known for feeding on mollusks.",
+    "habitat": "Coastal shores, estuaries, and mudflats worldwide.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "painted-bunting": {
+    "commonName": "Painted Bunting",
+    "description": "A small, vividly colored bird with blue, green, and red plumage.",
+    "habitat": "Shrublands and open woodlands in southeastern United States and Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "palila": {
+    "commonName": "Palila",
+    "description": "A critically endangered finch with a bright yellow belly and black head, native to Hawaii.",
+    "habitat": "Hawaiian dry forests and woodlands.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "palm-nut-vulture": {
+    "commonName": "Palm-nut Vulture",
+    "description": "A vulture with distinctive black and white plumage and a diet mainly consisting of palm nuts.",
+    "habitat": "Tropical and subtropical forests and savannas in West and Central Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "parakeet-auklet": {
+    "commonName": "Parakeet Auklet",
+    "description": "A small seabird with a colorful beak and greenish plumage, known for its distinctive call.",
+    "habitat": "Rocky coastal areas and islands in the North Pacific.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "parus-major": {
+    "commonName": "Great Tit",
+    "description": "A widespread and adaptable songbird with a black head, white cheeks, and a yellow belly.",
+    "habitat": "Woodlands, parks, and gardens throughout Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "patagonian-sierra-finch": {
+    "commonName": "Patagonian Sierra-Finch",
+    "description": "A robust and colorful finch with a mix of green, yellow, and brown plumage.",
+    "habitat": "Grasslands and open areas in Patagonia, South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "peacock": {
+    "commonName": "Peacock",
+    "description": "Known for its extravagant tail feathers, which display iridescent colors and eye spots.",
+    "habitat": "Forests, grasslands, and semi-arid regions in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "peregrine-falcon": {
+    "commonName": "Peregrine Falcon",
+    "description": "A powerful bird of prey recognized for its incredible speed during flight.",
+    "habitat": "Wide range of habitats including cliffs, urban areas, and coastal regions worldwide.",
+    "isEndangered": false,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "phainopeppla": {
+    "commonName": "Phainopepla",
+    "description": "A striking black bird with a distinctive crest and red eyes, often seen in arid regions.",
+    "habitat": "Desert and semi-arid habitats in the southwestern United States and northern Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "philippine-eagle": {
+    "commonName": "Philippine Eagle",
+    "description": "One of the largest and most powerful eagles, with a massive beak and a distinctive crest.",
+    "habitat": "Tropical forests in the Philippines.",
+    "isEndangered": true,
+    "isDangerous": true,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pink-robin": {
+    "commonName": "Pink Robin",
+    "description": "A small, delicate robin with soft pink underparts and a greyish-brown back.",
+    "habitat": "Forests and woodlands in southeastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "plush-crested-jay": {
+    "commonName": "Plush-crested Jay",
+    "description": "A striking blue and black jay with a distinctive, large crest.",
+    "habitat": "Tropical and subtropical forests in South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pomarine-jaeger": {
+    "commonName": "Pomarine Jaeger",
+    "description": "A large seabird known for its aggressive behavior and distinctive tail feathers.",
+    "habitat": "Open ocean and coastal areas, particularly in the Arctic and sub-Arctic regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "puffin": {
+    "commonName": "Puffin",
+    "description": "A seabird with a colorful beak and distinctive black and white plumage, often seen in coastal cliffs.",
+    "habitat": "Coastal areas and islands in the North Atlantic.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "puna-teal": {
+    "commonName": "Puna Teal",
+    "description": "A small, greenish duck found in high-altitude wetlands in South America.",
+    "habitat": "High-altitude lakes and wetlands in the Andes.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "purple-finch": {
+    "commonName": "Purple Finch",
+    "description": "A small finch with a rosy red color and a distinctive call.",
+    "habitat": "Woodlands and gardens in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "purple-gallinule": {
+    "commonName": "Purple Gallinule",
+    "description": "A colorful water bird with bright purple and green plumage and long, spindly legs.",
+    "habitat": "Marshes and wetlands in the Americas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "purple-martin": {
+    "commonName": "Purple Martin",
+    "description": "A large swallow with iridescent purple feathers and a cheerful song.",
+    "habitat": "Open woodlands and urban areas in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "purple-swamphen": {
+    "commonName": "Purple Swamphen",
+    "description": "A large, colorful rail with vibrant purple and green plumage and a distinctive red beak.",
+    "habitat": "Wetlands and marshes in tropical and subtropical regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pygmy-kingfisher": {
+    "commonName": "Pygmy Kingfisher",
+    "description": "One of the smallest kingfishers, with bright and striking plumage in various colors.",
+    "habitat": "Forests and woodlands in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "pyrrhuloxia": {
+    "commonName": "Pyrrhuloxia",
+    "description": "A striking finch with a distinctive crest, red and gray plumage, and a stout beak.",
+    "habitat": "Desert scrub and semi-arid regions in the southwestern United States and northern Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "quetzal": {
+    "commonName": "Quetzal",
+    "description": "A brilliantly colored bird known for its vibrant green and red feathers and long tail feathers.",
+    "habitat": "Cloud forests in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rainbow-lorikeet": {
+    "commonName": "Rainbow Lorikeet",
+    "description": "A colorful parrot with bright red, blue, green, and yellow plumage.",
+    "habitat": "Rainforests and coastal areas in Australia and nearby islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "razorbill": {
+    "commonName": "Razorbill",
+    "description": "A seabird with a black back, white belly, and a distinctive, thick bill.",
+    "habitat": "Coastal cliffs and islands in the North Atlantic.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-bearded-bee-eater": {
+    "commonName": "Red-bearded Bee-eater",
+    "description": "A vibrant bird with a bright red beard and green and yellow plumage.",
+    "habitat": "Forests and woodlands in Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-bellied-pitta": {
+    "commonName": "Red-bellied Pitta",
+    "description": "A striking pitta with a red belly and colorful plumage.",
+    "habitat": "Forests and woodlands in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-billed-tropicbird": {
+    "commonName": "Red-billed Tropicbird",
+    "description": "A white seabird with a long tail and a bright red bill.",
+    "habitat": "Tropical oceans and islands in the Indian and Pacific Oceans.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-browed-finch": {
+    "commonName": "Red-browed Finch",
+    "description": "A small finch with distinctive red eyebrows and bright green and red plumage.",
+    "habitat": "Woodlands and gardens in eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-crossbill": {
+    "commonName": "Red Crossbill",
+    "description": "A finch with a unique crossed bill, adapted for feeding on conifer seeds.",
+    "habitat": "Coniferous forests in North America and Eurasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-faced-cormorant": {
+    "commonName": "Red-faced Cormorant",
+    "description": "A seabird with dark plumage and a distinctive red face and throat.",
+    "habitat": "Coastal and rocky islands in the North Pacific.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-faced-warbler": {
+    "commonName": "Red-faced Warbler",
+    "description": "A small warbler with striking red face and throat, contrasting with its gray body.",
+    "habitat": "Montane forests in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-fody": {
+    "commonName": "Red Fody",
+    "description": "A brightly colored finch with vivid red plumage and black wings.",
+    "habitat": "Forests and shrublands on Madagascar and nearby islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-headed-duck": {
+    "commonName": "Red-headed Duck",
+    "description": "A diving duck with a distinctive reddish head and dark body.",
+    "habitat": "Freshwater lakes and ponds in North America during migration.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-headed-woodpecker": {
+    "commonName": "Red-headed Woodpecker",
+    "description": "A striking woodpecker with a vivid red head, black back, and white underparts.",
+    "habitat": "Deciduous forests and open woodlands in eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-knot": {
+    "commonName": "Red Knot",
+    "description": "A medium-sized shorebird with reddish-brown plumage during the breeding season.",
+    "habitat": "Coastal mudflats and estuaries across the Arctic and temperate regions during migration.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-legged-honeycreeper": {
+    "commonName": "Red-legged Honeycreeper",
+    "description": "A small, brightly colored bird with a red leg, greenish-blue body, and black head.",
+    "habitat": "Tropical forests and edges in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-naped-trogon": {
+    "commonName": "Red-naped Trogon",
+    "description": "A colorful bird with a distinctive red nape, green back, and white belly.",
+    "habitat": "Tropical forests and woodlands in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-shouldered-hawk": {
+    "commonName": "Red-shouldered Hawk",
+    "description": "A medium-sized hawk with distinctive reddish shoulders and a barred chest.",
+    "habitat": "Deciduous forests, mixed woodlands, and open areas in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-tailed-hawk": {
+    "commonName": "Red-tailed Hawk",
+    "description": "A large, widespread hawk with a characteristic red tail and varied plumage.",
+    "habitat": "Open country, woodlands, and urban areas in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-tailed-thrush": {
+    "commonName": "Red-tailed Thrush",
+    "description": "A thrush with a reddish tail and overall dark plumage.",
+    "habitat": "Forests and woodlands in tropical regions of Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-wattled-lapwing": {
+    "commonName": "Red-wattled Lapwing",
+    "description": "A distinctive wader with red wattles on its face and legs and a loud call.",
+    "habitat": "Open country, grasslands, and wetlands in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-winged-blackbird": {
+    "commonName": "Red-winged Blackbird",
+    "description": "A striking blackbird with red and yellow shoulder patches.",
+    "habitat": "Marshes, wetlands, and open areas across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "red-whiskered-bulbul": {
+    "commonName": "Red-whiskered Bulbul",
+    "description": "A small, crested bulbul with prominent red whisker-like markings on its cheeks.",
+    "habitat": "Woodlands, gardens, and open areas in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "regent-bowerbird": {
+    "commonName": "Regent Bowerbird",
+    "description": "A bright yellow and black bird known for its elaborate bower-building displays.",
+    "habitat": "Forests and woodlands in eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ring-necked-pheasant": {
+    "commonName": "Ring-necked Pheasant",
+    "description": "A colorful game bird with a distinctive ring of white feathers around its neck.",
+    "habitat": "Grasslands, fields, and open woodlands across Asia and introduced to North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "roadrunner": {
+    "commonName": "Roadrunner",
+    "description": "A fast-running bird known for its distinctive call and ability to chase down prey.",
+    "habitat": "Desert and semi-arid regions in southwestern United States and Mexico.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rock-dove": {
+    "commonName": "Rock Dove",
+    "description": "The wild ancestor of domestic pigeons, with a blue-gray body and white wing bars.",
+    "habitat": "Cliffs and urban areas across Europe, Asia, and North Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rose-breasted-cockatoo": {
+    "commonName": "Rose-breasted Cockatoo",
+    "description": "A cockatoo with a striking rose-colored chest and a white body.",
+    "habitat": "Woodlands and forest edges in eastern Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rose-breasted-grosbeak": {
+    "commonName": "Rose-breasted Grosbeak",
+    "description": "A large, striking bird with a rose-red chest and black head and back.",
+    "habitat": "Forests, woodlands, and edges across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "roseate-spoonbill": {
+    "commonName": "Roseate Spoonbill",
+    "description": "A wading bird with bright pink plumage and a distinctive spoon-shaped bill.",
+    "habitat": "Shallow wetlands and estuaries in the Americas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rosy-faced-lovebird": {
+    "commonName": "Rosy-faced Lovebird",
+    "description": "A small, colorful parrot with a rosy face and green body.",
+    "habitat": "Woodlands and savannas in southwestern Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rough-legged-buzzard": {
+    "commonName": "Rough-legged Buzzard",
+    "description": "A medium-sized raptor with rough legs and a variable plumage pattern.",
+    "habitat": "Tundra and open northern regions across Eurasia and North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "royal-flycatcher": {
+    "commonName": "Royal Flycatcher",
+    "description": "A striking flycatcher known for its elaborate, colorful crest and large size.",
+    "habitat": "Tropical rainforests in Central and South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ruby-crowned-kinglet": {
+    "commonName": "Ruby-crowned Kinglet",
+    "description": "A small, vibrant bird with a distinctive ruby-colored crown on males.",
+    "habitat": "Forests, woodlands, and dense vegetation in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ruby-throated-hummingbird": {
+    "commonName": "Ruby-throated Hummingbird",
+    "description": "A small hummingbird with a brilliant ruby-red throat patch in males.",
+    "habitat": "Woodlands, gardens, and clearings in eastern North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "ruddy-shellduck": {
+    "commonName": "Ruddy Shelduck",
+    "description": "A medium-sized duck with a reddish-brown body and a pale head.",
+    "habitat": "Wetlands, lakes, and rivers in Asia and parts of Eastern Europe.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rudy-kingfisher": {
+    "commonName": "Rudy Kingfisher",
+    "description": "A large kingfisher with a reddish-brown body and blue wings.",
+    "habitat": "Tropical forests, riverbanks, and mangroves in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rufous-kingfisher": {
+    "commonName": "Rufous Kingfisher",
+    "description": "A kingfisher with striking rufous plumage and a powerful beak.",
+    "habitat": "Forested rivers and streams in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rufous-treepie": {
+    "commonName": "Rufous Treepie",
+    "description": "A large, noisy bird with rufous underparts and a long tail.",
+    "habitat": "Forests and open woodlands in the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "rufous-motmot": {
+    "commonName": "Rufous Motmot",
+    "description": "A colorful bird with a rufous body and distinctive tail feathers.",
+    "habitat": "Tropical rainforests and forest edges in Central America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "samatran-thrush": {
+    "commonName": "Samatran Thrush",
+    "description": "A small, shy thrush with a brownish body and pale underparts.",
+    "habitat": "Forests and mountainous regions in Sumatra.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sand-martin": {
+    "commonName": "Sand Martin",
+    "description": "A small, migratory swallow with brown upperparts and a white belly.",
+    "habitat": "Open areas near water and sandy banks across Europe, Asia, and Africa.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sandhill-crane": {
+    "commonName": "Sandhill Crane",
+    "description": "A tall, long-legged crane known for its distinctive trumpeting call.",
+    "habitat": "Wetlands, grasslands, and agricultural fields across North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sarus-crane": {
+    "commonName": "Sarus Crane",
+    "description": "The tallest flying bird with a striking red head and long legs.",
+    "habitat": "Wetlands and open grasslands in the Indian subcontinent and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "satyr-tragopan": {
+    "commonName": "Satyr Tragopan",
+    "description": "A striking pheasant with vivid red, blue, and white plumage, native to the Himalayan forests.",
+    "habitat": "Forests and woodlands in the eastern Himalayas.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "says-phoebe": {
+    "commonName": "Say's Phoebe",
+    "description": "A small, grayish-brown flycatcher with a peach-colored belly, common in western North America.",
+    "habitat": "Open country, grasslands, and semi-arid areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "scarlet-crowned-fruit-dove": {
+    "commonName": "Scarlet-crowned Fruit Dove",
+    "description": "A colorful fruit dove with a bright scarlet crown and green body, found in the Philippines.",
+    "habitat": "Lowland and montane forests in the Philippines.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "scarlet-faced-liocichla": {
+    "commonName": "Scarlet-faced Liocichla",
+    "description": "A small bird with a striking scarlet face and dark body, native to the forests of Southeast Asia.",
+    "habitat": "Forest undergrowth in Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "scarlet-ibis": {
+    "commonName": "Scarlet Ibis",
+    "description": "A vividly red ibis with a long, slender bill, native to tropical South America.",
+    "habitat": "Wetlands, mangroves, and estuaries.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "scarlet-macaw": {
+    "commonName": "Scarlet Macaw",
+    "description": "A large, brightly colored parrot with red, yellow, and blue feathers, native to Central and South America.",
+    "habitat": "Tropical rainforests and woodlands.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "scarlet-tanager": {
+    "commonName": "Scarlet Tanager",
+    "description": "A vibrant red bird with black wings and tail, found in eastern North America during the summer.",
+    "habitat": "Deciduous forests and woodlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "shoebill": {
+    "commonName": "Shoebill",
+    "description": "A large, unusual stork with a massive shoe-shaped bill, found in tropical East Africa.",
+    "habitat": "Swamps, marshes, and wetlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "short-billed-dowitcher": {
+    "commonName": "Short-billed Dowitcher",
+    "description": "A medium-sized shorebird with a short, stout bill and brownish plumage, found in North America.",
+    "habitat": "Mudflats, marshes, and estuaries.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "smiths-longspur": {
+    "commonName": "Smith's Longspur",
+    "description": "A small, sparrow-like bird with streaked brown and black plumage, found in the northern prairies of North America.",
+    "habitat": "Grasslands and tundra.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "snow-goose": {
+    "commonName": "Snow Goose",
+    "description": "A white goose with black wingtips and a pink bill, found across North America and parts of Asia.",
+    "habitat": "Wetlands, marshes, and agricultural fields.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "snow-partridge": {
+    "commonName": "Snow Partridge",
+    "description": "A small, white partridge adapted to high-altitude environments, found in the Himalayas.",
+    "habitat": "Alpine and subalpine regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "snowy-egret": {
+    "commonName": "Snowy Egret",
+    "description": "A small white heron with delicate plumes, known for its black legs and yellow feet.",
+    "habitat": "Wetlands, mangroves, and shallow coastal waters.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "snowy-owl": {
+    "commonName": "Snowy Owl",
+    "description": "A large, white owl with striking black markings, found in the Arctic tundra.",
+    "habitat": "Arctic tundra and open landscapes.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "snowy-plover": {
+    "commonName": "Snowy Plover",
+    "description": "A small, sandy-colored shorebird with a distinctive white belly, found on coastal beaches.",
+    "habitat": "Beaches, salt flats, and coastal dunes.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "snowy-sheathbill": {
+    "commonName": "Snowy Sheathbill",
+    "description": "A white, pigeon-like bird with a distinctive sheath over its bill, found in the Antarctic region.",
+    "habitat": "Antarctic coastlines and islands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sora": {
+    "commonName": "Sora",
+    "description": "A small, secretive rail with a distinctive call, found in wetlands across North America.",
+    "habitat": "Marshes, swamps, and wet meadows.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "spangled-cotinga": {
+    "commonName": "Spangled Cotinga",
+    "description": "A vibrant bird with a dazzling iridescent green and blue plumage, found in the Amazon rainforest.",
+    "habitat": "Tropical lowland forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "splendid-wren": {
+    "commonName": "Splendid Wren",
+    "description": "A small, brightly colored wren with a striking mix of blue, red, and yellow feathers.",
+    "habitat": "Woodlands and forests in Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "spoon-billed-sandpiper": {
+    "commonName": "Spoon-billed Sandpiper",
+    "description": "A critically endangered shorebird with a unique spoon-shaped bill, found in East Asia.",
+    "habitat": "Intertidal mudflats and coastal wetlands.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "spotted-catbird": {
+    "commonName": "Spotted Catbird",
+    "description": "A medium-sized bird with a striking pattern of spots on its plumage, native to Australia.",
+    "habitat": "Rainforests and dense woodlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "spotted-whistling-duck": {
+    "commonName": "Spotted Whistling Duck",
+    "description": "A distinctive duck with spotted plumage and a whistling call, found in northern Australia and New Guinea.",
+    "habitat": "Wetlands, lagoons, and floodplains.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "squacco-heron": {
+    "commonName": "Squacco Heron",
+    "description": "A small, pale heron with a distinctive squacco call, found in Europe, Africa, and Asia.",
+    "habitat": "Shallow wetlands, marshes, and riverbanks.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sri-lanka-blue-magpie": {
+    "commonName": "Sri Lanka Blue Magpie",
+    "description": "A vibrant, multi-colored magpie with striking blue and orange feathers, endemic to Sri Lanka.",
+    "habitat": "Tropical forests and wooded areas in Sri Lanka.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "steamer-duck": {
+    "commonName": "Steamer Duck",
+    "description": "A flightless duck from South America, known for its powerful legs used in 'steaming' across the water.",
+    "habitat": "Patagonian regions and southern South America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "stork-billed-kingfisher": {
+    "commonName": "Stork-billed Kingfisher",
+    "description": "A large kingfisher with a stork-like bill, found in South and Southeast Asia.",
+    "habitat": "Forested and wooded riverbanks, mangroves, and swamps.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "striated-caracara": {
+    "commonName": "Striated Caracara",
+    "description": "A large, dark raptor with distinctive striped plumage, native to the Falkland Islands and southern South America.",
+    "habitat": "Open grasslands, tundras, and coastal areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "striped-owl": {
+    "commonName": "Striped Owl",
+    "description": "A medium-sized owl with striking vertical stripes on its chest, found in Central and South America.",
+    "habitat": "Tropical forests and woodland edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "striped-manakin": {
+    "commonName": "Striped Manakin",
+    "description": "A small, brightly colored bird with distinctive black and white stripes, native to Central and South America.",
+    "habitat": "Lowland rainforests and forest edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "striped-swallow": {
+    "commonName": "Striped Swallow",
+    "description": "A swallow with striking vertical stripes on its underparts, found in parts of Africa and Asia.",
+    "habitat": "Open country, including savannahs and grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "sunbittern": {
+    "commonName": "Sunbittern",
+    "description": "A colorful bird with a distinctive sunburst pattern on its wings, native to Central and South America.",
+    "habitat": "Tropical rainforests and riverine forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "superb-starling": {
+    "commonName": "Superb Starling",
+    "description": "A strikingly colorful starling with iridescent plumage, found in East Africa.",
+    "habitat": "Savannahs, open woodlands, and forest edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "surf-scoter": {
+    "commonName": "Surf Scoter",
+    "description": "A sea duck with a distinctive bill and bold plumage patterns, found along the coasts of North America.",
+    "habitat": "Coastal marine environments and estuaries.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "swinhoes-pheasant": {
+    "commonName": "Swinhoe's Pheasant",
+    "description": "A large, colorful pheasant with a unique appearance, native to Taiwan.",
+    "habitat": "Forested mountain slopes and highlands.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tailorbird": {
+    "commonName": "Tailorbird",
+    "description": "A small, active bird known for its distinctive tail and intricate nest-building, found in Asia.",
+    "habitat": "Tropical and subtropical forests and shrublands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "taiwan-magpie": {
+    "commonName": "Taiwan Magpie",
+    "description": "A large, striking magpie with vibrant plumage, endemic to Taiwan.",
+    "habitat": "Montane forests and mixed woodlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "takahe": {
+    "commonName": "Takahe",
+    "description": "A large, flightless bird native to New Zealand, known for its vivid plumage and robust build.",
+    "habitat": "Mountainous grasslands and alpine meadows.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tasmanian-hen": {
+    "commonName": "Tasmanian Hen",
+    "description": "Also known as the extinct Thylacine, a carnivorous marsupial from Tasmania with a distinctive striped coat.",
+    "habitat": "Forests, woodlands, and grasslands.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tawny-frogmouth": {
+    "commonName": "Tawny Frogmouth",
+    "description": "A nocturnal bird resembling an owl but related to nightjars, known for its wide, frog-like mouth.",
+    "habitat": "Woodlands, forests, and urban areas across Australia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "teal-duck": {
+    "commonName": "Teal Duck",
+    "description": "A small, often brightly colored duck found in freshwater and coastal habitats worldwide.",
+    "habitat": "Wetlands, ponds, and marshes.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tit-mouse": {
+    "commonName": "Titmouse",
+    "description": "A small, active songbird with a distinctive crest and lively behavior, found in North America and Eurasia.",
+    "habitat": "Deciduous and mixed forests, and urban parks.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "toucan": {
+    "commonName": "Toucan",
+    "description": "A brightly colored bird with a large, distinctively shaped bill, native to tropical rainforests in Central and South America.",
+    "habitat": "Tropical rainforests and forest edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "townsends-warbler": {
+    "commonName": "Townsend's Warbler",
+    "description": "A small, colorful warbler with a distinctive black throat and bright yellow underparts, found in western North America.",
+    "habitat": "Coniferous forests and mixed woodlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tree-swallow": {
+    "commonName": "Tree Swallow",
+    "description": "A small, agile swallow with iridescent plumage, known for its aerial feeding habits and nesting in cavities.",
+    "habitat": "Open woodlands, fields, and near water bodies.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tricolored-blackbird": {
+    "commonName": "Tricolored Blackbird",
+    "description": "A striking blackbird with bright red and white markings, native to the western United States.",
+    "habitat": "Wetlands, grasslands, and agricultural fields.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "tropical-kingbird": {
+    "commonName": "Tropical Kingbird",
+    "description": "A medium-sized kingbird with a bright yellow belly and grayish back, found in Central and South America.",
+    "habitat": "Open woodlands, savannahs, and coastal areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "trumpeter-swan": {
+    "commonName": "Trumpeter Swan",
+    "description": "The largest North American swan, known for its loud trumpeting call and all-white plumage.",
+    "habitat": "Lakes, rivers, and marshes in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "turkey-vulture": {
+    "commonName": "Turkey Vulture",
+    "description": "A large vulture with a bare red head and dark plumage, known for its scavenging habits.",
+    "habitat": "Open and semi-open areas, including forests, grasslands, and deserts.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "turquoise-motmot": {
+    "commonName": "Turquoise Motmot",
+    "description": "A vibrant, turquoise-colored bird with a distinctive tail structure found in Central America.",
+    "habitat": "Tropical and subtropical forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "umbrella-bird": {
+    "commonName": "Umbrella Bird",
+    "description": "A large, striking bird with a unique umbrella-shaped crest and a long, hanging wattle.",
+    "habitat": "Tropical rainforests of Central and South America.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "varied-thrush": {
+    "commonName": "Varied Thrush",
+    "description": "A brightly colored thrush with distinctive orange and black markings found in North America.",
+    "habitat": "Forests and woodlands, particularly coniferous forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "veery": {
+    "commonName": "Veery",
+    "description": "A small, brown thrush known for its melodious song and spotted underparts.",
+    "habitat": "Deciduous forests and dense undergrowth in North America.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "venezuelian-troupial": {
+    "commonName": "Venezuelian Troupial",
+    "description": "A brightly colored bird with orange and black plumage, native to northern South America.",
+    "habitat": "Open woodlands, savannahs, and cultivated areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "verdin": {
+    "commonName": "Verdin",
+    "description": "A small, active bird with yellow and gray plumage, found in the southwestern United States and Mexico.",
+    "habitat": "Desert scrub and arid brushlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "vermilion-flycatcher": {
+    "commonName": "Vermilion Flycatcher",
+    "description": "A small, striking bird with vivid red plumage on males, found in Central and South America.",
+    "habitat": "Open and semi-open areas, including woodlands and grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "victoria-crowned-pigeon": {
+    "commonName": "Victoria Crowned Pigeon",
+    "description": "A large pigeon with an elaborate blue crown and striking plumage, native to New Guinea.",
+    "habitat": "Lowland rainforests and forest edges.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "violet-backed-starling": {
+    "commonName": "Violet-backed Starling",
+    "description": "A small, colorful starling with violet and green plumage, found in sub-Saharan Africa.",
+    "habitat": "Woodland edges, savannahs, and open areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "violet-cuckoo": {
+    "commonName": "Violet Cuckoo",
+    "description": "A striking cuckoo with violet and green plumage, found in parts of Africa and Asia.",
+    "habitat": "Woodlands, savannahs, and forest edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "violet-green-swallow": {
+    "commonName": "Violet-green Swallow",
+    "description": "A small swallow with iridescent violet and green plumage, found in western North America.",
+    "habitat": "Open woodlands, forest edges, and near water.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "violet-turaco": {
+    "commonName": "Violet Turaco",
+    "description": "A vibrant, violet-colored bird with a striking green crest found in Central Africa.",
+    "habitat": "Tropical rainforests and wooded areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "visayan-hornbill": {
+    "commonName": "Visayan Hornbill",
+    "description": "A critically endangered hornbill with a distinct white and black coloration, native to the Visayan Islands of the Philippines.",
+    "habitat": "Lowland forests and forest edges.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "vulturine-guineafowl": {
+    "commonName": "Vulturine Guineafowl",
+    "description": "A large, striking guineafowl with a vulture-like appearance and bright blue and white plumage found in East Africa.",
+    "habitat": "Open savannahs and grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wall-creeper": {
+    "commonName": "Wallcreeper",
+    "description": "A small, colorful bird with a distinctive red and gray plumage, known for its climbing abilities on vertical surfaces.",
+    "habitat": "Rocky cliffs and mountainous regions in Eurasia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wattled-curassow": {
+    "commonName": "Wattled Curassow",
+    "description": "A large, ground-dwelling bird with a distinctive wattle and striking black and white plumage found in Central and South America.",
+    "habitat": "Tropical rainforests and riverine forests.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wattled-lapwing": {
+    "commonName": "Wattled Lapwing",
+    "description": "A distinctive lapwing with long legs and wattles on its face, found in Africa and parts of the Middle East.",
+    "habitat": "Open grasslands, wetlands, and savannahs.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "whimbrel": {
+    "commonName": "Whimbrel",
+    "description": "A medium-sized wader with a long, curved bill and brown streaked plumage, found in wetlands and coastal areas worldwide.",
+    "habitat": "Coastal mudflats, estuaries, and wetlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-breasted-kingfisher": {
+    "commonName": "White-breasted Kingfisher",
+    "description": "A large kingfisher with a striking white breast and vivid blue wings found in South and Southeast Asia.",
+    "habitat": "Open woodlands, forest edges, and near water.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-breasted-waterhen": {
+    "commonName": "White-breasted Waterhen",
+    "description": "A rail with a white breast and dark brown body, commonly found in South and Southeast Asia.",
+    "habitat": "Marshes, wetlands, and riverbanks.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-browed-crake": {
+    "commonName": "White-browed Crake",
+    "description": "A small, elusive rail with a white brow and dark plumage found in wetland areas of Africa and Asia.",
+    "habitat": "Marshes, swamps, and reed beds.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-cheeked-turaco": {
+    "commonName": "White-cheeked Turaco",
+    "description": "A vibrant turaco with distinctive white cheeks and bright green and red plumage found in Central Africa.",
+    "habitat": "Tropical rainforests and forest edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-crested-hornbill": {
+    "commonName": "White-Crested Hornbill",
+    "description": "A large hornbill with a distinctive white crest and black body, found in the forests of Southeast Asia.",
+    "habitat": "Tropical and subtropical forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-eared-hummingbird": {
+    "commonName": "White-Eared Hummingbird",
+    "description": "A vibrant hummingbird with distinctive white ear patches, native to the highlands of Mexico.",
+    "habitat": "Mountainous and forested areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-necked-raven": {
+    "commonName": "White-Necked Raven",
+    "description": "A large raven with a striking white neck patch and black plumage, found in East Africa.",
+    "habitat": "Open woodlands, savannas, and semi-arid regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-tailed-tropic": {
+    "commonName": "White-Tailed Tropicbird",
+    "description": "A sleek seabird with a white body and long, flowing tail feathers, found in tropical oceans.",
+    "habitat": "Tropical and subtropical oceanic regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-throated-bee-eater": {
+    "commonName": "White-Throated Bee-Eater",
+    "description": "A colorful bee-eater with a white throat and bright green and yellow plumage, found in Africa.",
+    "habitat": "Open woodlands, savannahs, and riverine forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "white-wagtail": {
+    "commonName": "White Wagtail",
+    "description": "A small, agile bird with a striking black and white plumage, found across Eurasia and parts of Africa.",
+    "habitat": "Open areas including fields, wetlands, and urban environments.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wild-turkey": {
+    "commonName": "Wild Turkey",
+    "description": "A large bird with a distinctive fan-shaped tail and colorful plumage, native to North America.",
+    "habitat": "Forests, woodlands, and grasslands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "willow-ptarmigan": {
+    "commonName": "Willow Ptarmigan",
+    "description": "A ground-dwelling bird with mottled brown plumage in summer and white in winter, found in the Arctic and sub-Arctic regions.",
+    "habitat": "Tundra and boreal forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wilsons-bird-of-paradise": {
+    "commonName": "Wilson's Bird-of-Paradise",
+    "description": "A strikingly colorful bird with elaborate plumage and a distinctive tail, found in the islands of Indonesia.",
+    "habitat": "Lowland forests and forest edges.",
+    "isEndangered": true,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wood-duck": {
+    "commonName": "Wood Duck",
+    "description": "A strikingly beautiful duck with iridescent plumage and a distinctive crest, native to North America.",
+    "habitat": "Wooded swamps, marshes, and riverine areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wood-thrush": {
+    "commonName": "Wood Thrush",
+    "description": "A medium-sized thrush known for its melodious song and spotted chest, found in eastern North America.",
+    "habitat": "Deciduous forests and woodlands.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "woodland-kingfisher": {
+    "commonName": "Woodland Kingfisher",
+    "description": "A colorful kingfisher with a bright blue back and white underparts, native to sub-Saharan Africa.",
+    "habitat": "Woodland edges, savannas, and riverine forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "wrentit": {
+    "commonName": "Wrentit",
+    "description": "A small, elusive bird with a distinctive dark cap and a white belly, found in western North America.",
+    "habitat": "Shrublands and chaparral.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "yellow-bellied-flowerpecker": {
+    "commonName": "Yellow-Bellied Flowerpecker",
+    "description": "A small, brightly colored flowerpecker with a yellow belly, native to the Philippines.",
+    "habitat": "Tropical forests and forest edges.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "yellow-breasted-chat": {
+    "commonName": "Yellow-Breasted Chat",
+    "description": "A vibrant bird with a bright yellow belly and olive green back, found in the southeastern United States.",
+    "habitat": "Shrublands, dense thickets, and edges of forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "yellow-cacique": {
+    "commonName": "Yellow Cacique",
+    "description": "A strikingly bright yellow bird with a black face and wings, found in Central and South America.",
+    "habitat": "Tropical and subtropical forests.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "yellow-headed-blackbird": {
+    "commonName": "Yellow-Headed Blackbird",
+    "description": "A blackbird with a vivid yellow head and chest, native to North America.",
+    "habitat": "Wetlands, marshes, and grassy meadows.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "zebra-dove": {
+    "commonName": "Zebra Dove",
+    "description": "A small dove with a distinctive zebra-like stripe pattern on its back, found in Southeast Asia.",
+    "habitat": "Open forests, scrublands, and urban areas.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  }
+}

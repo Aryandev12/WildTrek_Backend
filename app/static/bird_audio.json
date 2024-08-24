@@ -1,0 +1,447 @@
+{
+  "Ashy_Prinia": {
+    "commonName": "Ashy Prinia",
+    "description": "A small warbler known for its loud, sharp calls and agile movements in bushes.",
+    "habitat": "Scrublands, grasslands, and gardens across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Asian_Koel": {
+    "commonName": "Asian Koel",
+    "description": "A large, long-tailed cuckoo known for its distinctive calls, often heard during the breeding season.",
+    "habitat": "Forests, gardens, and agricultural areas across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Black-hooded_Oriole": {
+    "commonName": "Black-hooded Oriole",
+    "description": "A vibrant yellow bird with a black hood, known for its melodic whistle.",
+    "habitat": "Forests, woodlands, and urban areas across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Black_Drongo": {
+    "commonName": "Black Drongo",
+    "description": "A small, aggressive bird with glossy black plumage and a forked tail, known for its fearlessness.",
+    "habitat": "Open fields, farmlands, and gardens across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Blyth's_Reed_Warbler": {
+    "commonName": "Blyth's Reed Warbler",
+    "description": "A small, elusive bird with a plain appearance, recognized by its repetitive, musical song.",
+    "habitat": "Dense reeds, bushes, and marshes across South Asia and Europe.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Bronzed_Drongo": {
+    "commonName": "Bronzed Drongo",
+    "description": "A metallic black bird known for its aerial acrobatics and mimicry of other birds' calls.",
+    "habitat": "Forests and wooded areas across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Brown-cheeked_Fulvetta": {
+    "commonName": "Brown-cheeked Fulvetta",
+    "description": "A small, gregarious bird with a brown cheek patch, often seen in mixed-species flocks.",
+    "habitat": "Dense forests and undergrowth in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Brown-headed_Barbet": {
+    "commonName": "Brown-headed Barbet",
+    "description": "A green bird with a distinctive brown head and a loud, repetitive call.",
+    "habitat": "Woodlands, gardens, and plantations across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+"Brown_Hawk-Owl": {
+    "commonName": "Brown Hawk-Owl",
+    "description": "A medium-sized owl with a hawk-like appearance, known for its sharp hunting skills.",
+    "habitat": "Forests, woodlands, and urban areas across Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Chestnut-crowned_Laughingthrush": {
+    "commonName": "Chestnut-crowned Laughingthrush",
+    "description": "A noisy bird with a rich, chestnut crown and a melodious call often heard in flocks.",
+    "habitat": "Montane forests and dense undergrowth in the Himalayas and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Cinereous_Tit": {
+    "commonName": "Cinereous Tit",
+    "description": "A small, active bird with gray and white plumage, known for its bold behavior around humans.",
+    "habitat": "Forests, gardens, and urban areas across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Common_Hawk-Cuckoo": {
+    "commonName": "Common Hawk-Cuckoo",
+    "description": "A medium-sized bird known for its resemblance to a hawk and its distinctive, repetitive call.",
+    "habitat": "Forests, woodlands, and gardens across the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Common_Iora": {
+    "commonName": "Common Iora",
+    "description": "A small, brightly colored bird known for its acrobatic foraging and melodious song.",
+    "habitat": "Forests, gardens, and plantations across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Common_Myna": {
+    "commonName": "Common Myna",
+    "description": "A highly adaptable bird known for its loud calls and ability to thrive in urban environments.",
+    "habitat": "Cities, towns, farmlands, and open woodlands across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Common_Tailorbird": {
+    "commonName": "Common Tailorbird",
+    "description": "A small, active bird known for its distinctive call and nest-building skills using leaves.",
+    "habitat": "Gardens, forests, and shrublands across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Coppersmith_Barbet": {
+    "commonName": "Coppersmith Barbet",
+    "description": "A small, colorful bird known for its repetitive, metallic call that sounds like a coppersmith at work.",
+    "habitat": "Open woodlands, gardens, and urban areas across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+"Great_Barbet": {
+    "commonName": "Great Barbet",
+    "description": "A large barbet with vibrant plumage and a distinctive loud, repetitive call.",
+    "habitat": "Himalayan foothills and forests across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Greater_Coucal": {
+    "commonName": "Greater Coucal",
+    "description": "A large, glossy black bird with a distinctive coppery back and a deep, resonant call.",
+    "habitat": "Dense vegetation, scrublands, and farmlands across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Greater_Racket-tailed_Drongo": {
+    "commonName": "Greater Racket-tailed Drongo",
+    "description": "A medium-sized bird with distinctive elongated tail feathers and excellent mimicry skills.",
+    "habitat": "Forests and open woodlands in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Greenish_Warbler": {
+    "commonName": "Greenish Warbler",
+    "description": "A small migratory warbler with greenish upperparts and a clear, whistling song.",
+    "habitat": "Woodlands, forests, and gardens in Europe and Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Grey-breasted_Prinia": {
+    "commonName": "Grey-breasted Prinia",
+    "description": "A small bird with greyish underparts and an energetic, high-pitched call.",
+    "habitat": "Grasslands, open forests, and scrub areas in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Grey-headed_Canary-flycatcher": {
+    "commonName": "Grey-headed Canary-flycatcher",
+    "description": "A small bird with a grey head and a distinctive, sweet whistling call.",
+    "habitat": "Forests, gardens, and open woodlands across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Grey-hooded_Warbler": {
+    "commonName": "Grey-hooded Warbler",
+    "description": "A small, active warbler with a grey hood and a high-pitched, melodic song.",
+    "habitat": "Forests and wooded habitats in the Himalayas and surrounding regions.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Grey_Francolin": {
+    "commonName": "Grey Francolin",
+    "description": "A medium-sized bird with grey-brown plumage and a distinctive 'chakwa-chakwa' call.",
+    "habitat": "Grasslands, scrublands, and agricultural areas in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+
+  "Grey_Junglefowl": {
+    "commonName": "Grey Junglefowl",
+    "description": "A wild bird with grey plumage and colorful neck feathers, native to India.",
+    "habitat": "Forests and scrublands in southern and central India.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "House_Crow": {
+    "commonName": "House Crow",
+    "description": "A small, opportunistic crow species known for its intelligence and adaptability.",
+    "habitat": "Urban areas, coastal regions, and villages across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Hume's_Leaf_Warbler": {
+    "commonName": "Hume's Leaf Warbler",
+    "description": "A small, active warbler with greenish plumage and a distinctive, high-pitched call.",
+    "habitat": "Forests and woodlands in the Himalayas and Central Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Indian_Pitta": {
+    "commonName": "Indian Pitta",
+    "description": "A colorful bird with a distinctive whistle, known for its bright plumage and terrestrial habits.",
+    "habitat": "Forests, gardens, and dense scrub across the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Indian_Robin": {
+    "commonName": "Indian Robin",
+    "description": "A small bird with a glossy black or brown body and a distinctive white patch on its wing.",
+    "habitat": "Open habitats, scrublands, and farmlands across the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Indian_Scimitar_Babbler": {
+    "commonName": "Indian Scimitar Babbler",
+    "description": "A bird with a distinctive curved bill and white throat, often found in small groups.",
+    "habitat": "Forests and dense undergrowth in the Western Ghats and northeastern India.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Jungle_Babbler": {
+    "commonName": "Jungle Babbler",
+    "description": "A social bird known for its noisy behavior and brownish plumage, commonly called 'Seven Sisters'.",
+    "habitat": "Forests, gardens, and urban areas across the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Jungle_Owlet": {
+    "commonName": "Jungle Owlet",
+    "description": "A small owl with a stocky build and a streaked appearance, active mainly during dusk and dawn.",
+    "habitat": "Forests and wooded areas in South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+"Jungle_Prinia": {
+    "commonName": "Jungle Prinia",
+    "description": "A small, restless warbler with a distinctive upturned tail and grey-brown plumage.",
+    "habitat": "Grasslands, scrublands, and open forests across the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Malabar_Whistling_Thrush": {
+    "commonName": "Malabar Whistling Thrush",
+    "description": "A striking bird known for its whistling call and glossy blue-black plumage.",
+    "habitat": "Forests and plantations in the Western Ghats of India.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Plain_Prinia": {
+    "commonName": "Plain Prinia",
+    "description": "A small, brownish-grey warbler with a long tail and sharp call, often seen in pairs.",
+    "habitat": "Grasslands, wetlands, and agricultural fields across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Plum-headed_Parakeet": {
+    "commonName": "Plum-headed Parakeet",
+    "description": "A colorful parakeet with a distinctive plum-colored head in males, and greenish in females.",
+    "habitat": "Forests, open woodlands, and gardens in the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Puff-throated_Babbler": {
+    "commonName": "Puff-throated Babbler",
+    "description": "A small, ground-dwelling bird with streaked plumage and a distinctive puffy throat.",
+    "habitat": "Forests, bamboo thickets, and undergrowth across South and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Purple-rumped_Sunbird": {
+    "commonName": "Purple-rumped Sunbird",
+    "description": "A tiny, colorful sunbird with iridescent purple and green plumage, known for nectar feeding.",
+    "habitat": "Gardens, forests, and urban areas across the Indian subcontinent.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Purple_Sunbird": {
+    "commonName": "Purple Sunbird",
+    "description": "A small sunbird with a metallic purple-blue sheen in males and olive-brown in females.",
+    "habitat": "Forests, gardens, and scrublands in South Asia and parts of the Middle East.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Red-vented_Bulbul": {
+    "commonName": "Red-vented Bulbul",
+    "description": "A medium-sized bird with a distinctive red vent and a black crest on its head.",
+    "habitat": "Forests, gardens, and urban areas across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+
+  "Red-wattled_Lapwing": {
+    "commonName": "Red-wattled Lapwing",
+    "description": "A large wader with a distinctive red wattle on its face and loud, shrill calls.",
+    "habitat": "Wetlands, grasslands, and agricultural fields across South Asia and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Red-whiskered_Bulbul": {
+    "commonName": "Red-whiskered Bulbul",
+    "description": "A medium-sized bird with a black crest and red patches on the face and under the tail.",
+    "habitat": "Forests, gardens, and urban areas in South Asia and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Rose-ringed_Parakeet": {
+    "commonName": "Rose-ringed Parakeet",
+    "description": "A bright green parakeet with a distinctive rose-colored ring around the neck in males.",
+    "habitat": "Forests, gardens, and urban areas across Africa and South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Rufous_Treepie": {
+    "commonName": "Rufous Treepie",
+    "description": "A striking bird with rufous and grey plumage and a long tail, known for its raucous calls.",
+    "habitat": "Forests, open woodlands, and urban areas in South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Rusty-cheeked_Scimitar_Babbler": {
+    "commonName": "Rusty-cheeked Scimitar Babbler",
+    "description": "A small bird with a distinctive curved bill and rusty-brown cheeks.",
+    "habitat": "Forests and dense undergrowth in the Himalayas and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "Stork-billed_Kingfisher": {
+    "commonName": "Stork-billed Kingfisher",
+    "description": "A large kingfisher with a heavy bill, green-blue upperparts, and a bright red bill and legs.",
+    "habitat": "Rivers, lakes, and coastal areas across South Asia and Southeast Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+
+  "Tickell's_Blue_Flycatcher": {
+    "commonName": "Tickell's Blue Flycatcher",
+    "description": "A small, vibrant blue bird with an orange throat and breast, known for its melodious song.",
+    "habitat": "Forests and wooded areas in South Asia, particularly near water.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "White-cheeked_Barbet": {
+    "commonName": "White-cheeked Barbet",
+    "description": "A green bird with a distinctive white patch on its cheek, known for its repetitive 'kutroo-kutroo' call.",
+    "habitat": "Woodlands, gardens, and urban areas in southern India.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  },
+  "White-throated_Kingfisher": {
+    "commonName": "White-throated Kingfisher",
+    "description": "A large kingfisher with a bright blue body, white throat, and chestnut head, known for its loud, distinctive calls.",
+    "habitat": "Wetlands, agricultural fields, and gardens across South Asia.",
+    "isEndangered": false,
+    "isDangerous": false,
+    "venomous": false,
+    "poisonous": false
+  }
+}
+
