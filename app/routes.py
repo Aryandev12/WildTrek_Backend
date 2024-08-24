@@ -8,6 +8,11 @@ from werkzeug.security import check_password_hash, generate_password_hash
 from flask_jwt_extended import create_access_token, jwt_required, get_jwt_identity
 from marshmallow import ValidationError
 from .alerts import send_alert
+from .classifyAnimalImage import *
+from .classifyBirdImage import *
+from .classifyBirdSound import *
+from .classifyAnimalSound import *
+
 routes = Blueprint("routes", __name__)
 
 #Test Route
@@ -137,5 +142,34 @@ def get_alerts():
     return jsonify({"alerts": alerts}), 200
 
 
+@routes.route("/classify-bird-audio", methods=["POST"])
+def classify_bird_audio_():
+    if 'audio' not in request.files:
+        return jsonify({"error": "No audio file found"}), 400
+    audio_file = request.files['audio']
+    response = classify_bird_sound(audio_file)
+    return jsonify(response)
 
+@routes.route("/classify-animal-audio", methods=["POST"])
+def classify_animal_audio_():
+    if 'audio' not in request.files:
+        return jsonify({"error": "No audio file found"}), 400
+    audio_file = request.files['audio']
+    response = classify_animal_sound(audio_file)
+    return jsonify(response)
 
+@routes.route("/classify-bird-image", methods=["POST"])
+def classify_bird_image_():
+    if 'image' not in request.files:
+        return jsonify({"error": "No image file found"}), 400
+    image_file = request.files['image']
+    response = classify_bird_image(image_file)
+    return jsonify(response)
+
+@routes.route("/classify-animal-image", methods=["POST"])
+def classify_animal_image_():
+    if 'image' not in request.files:
+        return jsonify({"error": "No image file found"}), 400
+    image_file = request.files['image']
+    response = classify_animal_image(image_file)
+    return jsonify(response)
