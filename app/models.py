@@ -48,14 +48,16 @@ class AlertSchema(Schema):
     priority = fields.Str(required=True, validate=validate.OneOf(["Low", "Medium", "High"]))
     address = fields.Str(required=True)
     user_id = fields.Str(required=True)  # Foreign key to reference User
+    photo_url = fields.Str(dump_only=True)
     created_at = fields.DateTime(dump_only=True)
+
 
     @post_load
     def create_alert(self, data, **kwargs):
         return Alert(**data)
 
 class Alert:
-    def __init__(self, animal_name, location, username, user_email, priority, address, user_id, _id=None, created_at=None):
+    def __init__(self, animal_name, location, username, user_email, priority, address, user_id, photo_url, _id=None, created_at=None):
         self.id = _id or str(uuid.uuid4())  # Generate a unique ID for each alert
         self.animal_name = animal_name
         self.location = location
@@ -64,6 +66,7 @@ class Alert:
         self.priority = priority
         self.address = address
         self.user_id = user_id  # Reference to the user who sent the alert
+        self.photo_url = photo_url
         self.created_at = created_at or datetime.utcnow()
 
     def to_dict(self):
