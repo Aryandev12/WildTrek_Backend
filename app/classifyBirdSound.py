@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore")
 
 
 BIRD_SOUND_DATA = None
-with open("WildTrek_Backend/app/static/bird_audio.json", "r") as f:
+with open("app/static/bird_audio.json", "r") as f:
     BIRD_SOUND_DATA = json.load(f)
 
 def classify_bird_sound_set_device():
@@ -84,7 +84,7 @@ class AudioPreprocessor:
         return mel_spec.unsqueeze(0)  
     
 bird_sound_preprocessor = AudioPreprocessor()
-bird_sound_checkpoint = torch.load("WildTrek_Backend/app/models/bird_audio.pth", map_location=device)
+bird_sound_checkpoint = torch.load("app/models/bird_audio.pth", map_location=device)
 bird_sound_idx_to_class = {v: k for k, v in bird_sound_checkpoint['class_to_idx'].items()}
 bird_sound_num_classes = len(bird_sound_idx_to_class)
 bird_sound_model = BirdSoundMobileNet(num_classes=bird_sound_num_classes)

@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 ANIMAL_SOUND_DATA = None
-with open("WildTrek_Backend/app/static/animal_audio.json", "r") as f:
+with open("app/static/animal_audio.json", "r") as f:
     ANIMAL_SOUND_DATA = json.load(f)
 
 def classify_animal_sound_set_device():
@@ -84,7 +84,7 @@ class AudioPreprocessor:
 
 
 animal_sound_preprocessor = AudioPreprocessor()
-animal_sound_checkpoint = torch.load("WildTrek_Backend/app/models/animal_audio.pth", map_location=device)
+animal_sound_checkpoint = torch.load("app/models/animal_audio.pth", map_location=device)
 animal_sound_idx_to_class = {v: k for k, v in animal_sound_checkpoint['class_to_idx'].items()}
 animal_sound_num_classes = len(animal_sound_idx_to_class)
 animal_sound_model = AnimalSoundMobileNet(num_classes=animal_sound_num_classes)
@@ -123,7 +123,7 @@ def classify_animal_sound(audio_path, model=animal_sound_model, preprocessor=ani
     }
     result = None
     for scientificName in data.keys():
-        if scientificName == predicted_species:
+        if scientificName == predicted_species.lower():
             result = {
                 "scientific_name": scientificName,
                 "common_name": data[scientificName]["commonName"],
@@ -138,5 +138,6 @@ def classify_animal_sound(audio_path, model=animal_sound_model, preprocessor=ani
     try:
         if result['probability'] >=20:
             return result
-    except:
+    except Exception as e:
+        print(e)
         return result_not_found

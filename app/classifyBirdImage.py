@@ -4,42 +4,54 @@ import torch.nn.functional as F
 import PIL.Image as Image
 import json
 
-
+# Load bird image data
 BIRD_IMAGE_DATA = None
-with open("WildTrek_Backend/app/static/bird_image.json", "r") as f:
+with open("app/static/bird_image.json", "r") as f:
     BIRD_IMAGE_DATA = json.load(f)
 
+# Function to set the device (GPU or CPU)
 def classify_bird_image_set_device():
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     return device
-device = classify_bird_image_set_device()
-bird_image_checkpoint = torch.load("WildTrek_Backend/app/models/bird_image_checkpoint.pth.tar", weights_only=False, map_location=device)
-bird_image_model = torch.load("WildTrek_Backend/app/models/bird_image.pth", map_location=device, weights_only=False)
 
+# Set the device
+device = classify_bird_image_set_device()
+
+# Load the model and checkpoint
+bird_image_checkpoint = torch.load("app/models/bird_image_checkpoint.pth.tar", map_location=device)
+bird_image_model = torch.load("app/models/bird_image.pth", map_location=device)
+bird_image_model = bird_image_model.to(device)
+
+# Get mean and std from the checkpoint
 mean = bird_image_checkpoint['mean']
 std = bird_image_checkpoint['std']
 
+# Define the image transformations
 image_transforms = transforms.Compose([
-    transforms.Resize((224,224)),
+    transforms.Resize((224, 224)),
     transforms.ToTensor(),
-    transforms.Normalize(torch.Tensor(mean), torch.Tensor(std))  # image = (image - mean) / std
+    transforms.Normalize(torch.Tensor(mean), torch.Tensor(std))
 ])
 
-
-def classify_bird_image(image_path,model=bird_image_model, image_transforms=image_transforms, data=BIRD_IMAGE_DATA):
+# Function to classify a bird image
+def classify_bird_image(image_path, model=bird_image_model, image_transforms=image_transforms, data=BIRD_IMAGE_DATA):
     model = model.eval()
+
+    # Load and transform the image
     image = Image.open(image_path)
     image = image_transforms(image).float()
-    image = image.unsqueeze(0)
+    image = image.unsqueeze(0).to(device)  # Move image tensor to the same device as the model
 
+    # Forward pass through the model
     output = model(image)
 
     # Compute probabilities
     probabilities = F.softmax(output, dim=1)
     max_prob, predicted = torch.max(probabilities.data, 1)
     predicted = predicted.item()
+    predicted = list(data.keys())[predicted]
 
-
+    # Define the result_not_found structure
     result_not_found = {
         "scientific_name": "Could not identify",
         "common_name": "Could not identify",
@@ -51,6 +63,8 @@ def classify_bird_image(image_path,model=bird_image_model, image_transforms=imag
         "venomous": "Could not identify",
         "probability": 0
     }
+
+    # Initialize result
     result = None
     for scientificName in data.keys():
         if scientificName == predicted.lower():
@@ -65,9 +79,12 @@ def classify_bird_image(image_path,model=bird_image_model, image_transforms=imag
                 "venomous": str(data[scientificName]["venomous"]),
                 "probability": max_prob.item() * 100
             }
+
+    # Return result if probability is above 20%, else return result_not_found
     try:
-        if result['probability'] >=20:
+        if result and result['probability'] >= 20:
             return result
     except:
-        return result_not_found
+        pass
 
+    return result_not_found

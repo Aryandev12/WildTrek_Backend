@@ -1,6 +1,6 @@
 {
   "acinonyx-jubatus": {
-    "common_name": "Cheetah",
+    "commonName": "Cheetah",
     "description": "Cheetahs are the fastest land animals, reaching speeds up to 120 km/h in short bursts.",
     "habitat": "Open plains and grasslands across Africa",
     "isEndangered": true,
@@ -9,7 +9,7 @@
     "poisonous": false
   },
   "aethia-cristatella": {
-    "common_name": "Crested Auklet",
+    "commonName": "Crested Auklet",
     "description": "A small seabird known for its distinct crest and strong odor.",
     "habitat": "Coastal cliffs and islands in the North Pacific",
     "isEndangered": false,
@@ -18,7 +18,7 @@
     "poisonous": false
   },
   "agalychnis-callidryas": {
-    "common_name": "Red-Eyed Tree Frog",
+    "commonName": "Red-Eyed Tree Frog",
     "description": "A brightly colored frog famous for its vivid red eyes.",
     "habitat": "Rainforests of Central America",
     "isEndangered": false,
@@ -27,7 +27,7 @@
     "poisonous": false
   },
   "agkistrodon-contortrix": {
-    "common_name": "Copperhead",
+    "commonName": "Copperhead",
     "description": "A venomous snake with distinctive copper-colored bands.",
     "habitat": "Forests and rocky areas in the Eastern United States",
     "isEndangered": false,
@@ -36,7 +36,7 @@
     "poisonous": false
   },
   "ailuropoda-melanoleuca": {
-    "common_name": "Giant Panda",
+    "commonName": "Giant Panda",
     "description": "A bear known for its black and white coat and love of bamboo.",
     "habitat": "Mountainous regions of Central China",
     "isEndangered": true,
@@ -45,7 +45,7 @@
     "poisonous": false
   },
   "ailurus-fulgens": {
-    "common_name": "Red Panda",
+    "commonName": "Red Panda",
     "description": "A small mammal with reddish-brown fur and a bushy tail.",
     "habitat": "Himalayan forests",
     "isEndangered": true,
@@ -54,7 +54,7 @@
     "poisonous": false
   },
   "alces-alces": {
-    "common_name": "Moose",
+    "commonName": "Moose",
     "description": "The largest member of the deer family, with long legs and a massive body.",
     "habitat": "Boreal and mixed deciduous forests in the Northern Hemisphere",
     "isEndangered": false,
@@ -63,7 +63,7 @@
     "poisonous": false
   },
   "anas-platyrhynchos": {
-    "common_name": "Mallard",
+    "commonName": "Mallard",
     "description": "A common duck species known for its green-headed males.",
     "habitat": "Wetlands, ponds, and rivers worldwide",
     "isEndangered": false,
