@@ -107,8 +107,9 @@ def login():
         return jsonify({"message": str(e)}), 400
 
 #routes regarding alerts
-@routes.route("/api/sendalert", methods=["POST"])
+@routes.route("/sendalert", methods=["POST"])
 def send_alert_route():
+    print("inside send alert route")
     data = request.form.to_dict()
     image_file = request.files['image']
     user_email = data.get('user_email')

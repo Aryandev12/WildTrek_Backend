@@ -42,9 +42,9 @@ class User(object):
 class AlertSchema(Schema):
     id = fields.Str(dump_only=True)
     animal_name = fields.Str(required=True)
-    location = fields.Str(required=True)
     username = fields.Str(required=True)
     user_email = fields.Email(required=True)
+    injury_level = fields.Str(required=True)
     priority = fields.Str(required=True, validate=validate.OneOf(["Low", "Medium", "High"]))
     address = fields.Str(required=True)
     user_id = fields.Str(required=True)  # Foreign key to reference User
@@ -57,27 +57,27 @@ class AlertSchema(Schema):
         return Alert(**data)
 
 class Alert:
-    def __init__(self, animal_name, location, username, user_email, priority, address, user_id, photo_url, _id=None, created_at=None):
+    def __init__(self, animal_name, location, username, user_email, priority, address, user_id, photo_url,injury_level ,_id=None, created_at=None):
         self.id = _id or str(uuid.uuid4())  # Generate a unique ID for each alert
         self.animal_name = animal_name
-        self.location = location
         self.username = username
         self.user_email = user_email
         self.priority = priority
         self.address = address
         self.user_id = user_id  # Reference to the user who sent the alert
         self.photo_url = photo_url
+        self.injury_level = injury_level
         self.created_at = created_at or datetime.utcnow()
 
     def to_dict(self):
         return {
             "id": self.id,
             "animal_name": self.animal_name,
-            "location": self.location,
-            "username": self.username,
+            "user_name": self.username,
             "user_email": self.user_email,
             "priority": self.priority,
             "address": self.address,
             "user_id": self.user_id,
-            "created_at": self.created_at
+            "created_at": self.created_at,
+            "injury_level": self.injury_level
         }
