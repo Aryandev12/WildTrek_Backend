@@ -26,11 +26,11 @@ initialize_cloudinary()
 
 def send_alert(data, image_file):
     animal_name = data['animal_name']
-    location = data['location']
+    injury_level = data['injury_level']
     user_name = data['user_name']
     user_email = data['user_email']
     priority = data['priority']
-    manual_address = data['manual_address']
+    manual_address = data['address']
 
     # Attempt to upload image to Cloudinary with error handling
     try:
@@ -48,9 +48,10 @@ def send_alert(data, image_file):
     
     An alert has been triggered in the Wildlife App:
     - Animal: {animal_name}
-    - Location: {location} ({manual_address})
+    - Location: {manual_address}
     - Reported by: {user_name} ({user_email})
     - Priority: {priority.capitalize()}
+    - Injury: {injury_level}
     
     Photo: {photo_url}
     """
@@ -63,7 +64,7 @@ def send_alert(data, image_file):
         user_id = user['_id']  # Correctly access the _id from the user document
         alert_data = {
             "animal_name": animal_name,
-            "location": location,
+            "injury_level": injury_level,
             "username": user_name,
             "user_email": user_email,
             "priority": priority,
