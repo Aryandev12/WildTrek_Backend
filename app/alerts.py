@@ -26,7 +26,7 @@ initialize_cloudinary()
 
 def send_alert(data, image_file):
     animal_name = data['animal_name']
-    injury_level = data['injury_level']
+    injury_level = data['injury_level'] + ' / 10'
     user_name = data['user_name']
     user_email = data['user_email']
     priority = data['priority']
@@ -41,7 +41,7 @@ def send_alert(data, image_file):
         # Handle the error (e.g., log it, retry, etc.)
         photo_url = "Image upload failed. URL not available."
 
-    subject = f"{'High' if priority == 'high' else 'Low'} Priority: Injured Animal Detected - {animal_name}"
+    subject = f"{'High' if priority == 'High' else 'Low'} Priority: Injured Animal Detected - {animal_name}"
 
     alert_message = f"""
     Subject: {subject}
@@ -94,7 +94,7 @@ def send_alert(data, image_file):
             with current_app.app_context():
                 mail = configure_mail(current_app)
                 msg = Message(subject=subject,
-                          recipients=["aryandev512@gmail.com"],  # Add authority's email here
+                          recipients=["wildlife.government@gmail.com"],  # Add authority's email here
                           body=alert_message)
                 mail.send(msg)
                 print("Alert email sent successfully.")
