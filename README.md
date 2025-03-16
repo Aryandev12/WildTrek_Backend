@@ -2,6 +2,12 @@
 
 WildTrek is a wildlife exploration application that uses advanced Image and Audio Recognition to help users identify animals and birds, while also providing a platform to alert authorities about wildlife in need of assistance.
 
+## 🎥 Demo
+
+Check out the video demonstration of WildTrek in action:
+
+[Watch the video](https://www.linkedin.com/posts/harshrox_statuscode1-hackathon-wildlife-activity-7234818408460996610-qUXe)
+
 ## 🚀 Features
 
 - **Species Recognition API**: Deep learning-powered endpoints for identifying animals and birds through images and audio
@@ -137,20 +143,11 @@ wildtrek-backend/
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
 - Harsh Anand (@harshrox)
 - Ajay Tiwari (@AjaiTiwarii)
 - Aryan Dev (@Aryandev12)
-
-## 🙏 Acknowledgments
-
-- Thanks to contributors and supporters
-- Special thanks to the open-source community
-
+- Ayush Bajpai (@GentleClash) 
 ---
 Built with ❤️ for wildlife conservation | August 2024
